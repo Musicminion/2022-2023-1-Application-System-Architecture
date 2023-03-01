@@ -32,13 +32,7 @@ sidebar_position: 1
 - 第21章 时序数据库
 - 第22章 数据湖
 
-
-第19章 MongoDB
-一、NoSQL
-二、DAO和Repository差
-第16章 MySQL优化（二）
-
-第二个模块是运维，讲述Nginx、集群、MR等相关概念。
+第三个模块是运维，讲述Nginx、集群、MR等相关概念。
 - 第23章 集群
 - 第24章 Hadoop MR
 
