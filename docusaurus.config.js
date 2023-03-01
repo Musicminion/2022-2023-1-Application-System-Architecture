@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: '应用系统体系架构',
   tagline: 'CHP is NB!',
   favicon: 'img/favicon.ico',
 
@@ -42,7 +42,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/',
         },
         blog: {
           showReadingTime: true,
@@ -126,7 +126,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Wiki Copyright © ${new Date().getFullYear()} Musicminion, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
