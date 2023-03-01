@@ -4,7 +4,7 @@
 
 **重要更新**
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9e3fc926-7b6f-48be-b87b-1e70feafdba6/deploy-status)](https://app.netlify.com/sites/application-system-architecture/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/440b49b8-2a2f-4e2a-b782-8c2ba7d90a9d/deploy-status)](https://app.netlify.com/sites/application-system-architecture/deploys)
 
 根据笔记，我已经整理发布成网站，欢迎前往：
 
