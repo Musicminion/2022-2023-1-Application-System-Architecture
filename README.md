@@ -1,6 +1,11 @@
 # 2022-2023-1-Application-System-Architecture
 本仓库是应用系统体系架构课程作业报告集合，由于某些原因（就是我懒），所以接着上学期的仓库开发了：
 
+**重要更新**
+根据笔记，我已经整理发布成网站，欢迎前往：
+- 站点1：https://application-system-architecture.vercel.app/
+- 站点2：https://application-system-architecture.netlify.app/
+
 **友情提示**
 - 作业08为签到作业，希望以后不要有人因为逃课被抓了，不去会扣两分，扣在作业分数里面 ^_^
 - 虽然这课没有单独的签到分，但是不去会扣作业分^_^
