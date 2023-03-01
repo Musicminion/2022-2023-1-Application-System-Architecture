@@ -57,4 +57,6 @@ sidebar_position: 18
 - 当往一个chunk里面不断插入数据的时候，这个chunk可能就会分裂，分裂成多个chunk。
 - 考虑到前面所说的不同的shard服务器之间chunk的数量差异不能超过2个，那么一旦分裂之后数量违反了这个规定，MongoDB就会自动的调整chunk在服务器之间的位置，保证均衡。
 
-<img src="assets/image-20230101174316317.png" alt="image-20230101174316317" style="zoom:50%;" />
+![](./assets/image-20230101174316317.png)
+
+<!-- <img src="assets/image-20230101174316317.png" alt="image-20230101174316317" style="zoom:50%;" /> -->

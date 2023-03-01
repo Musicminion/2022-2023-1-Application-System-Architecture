@@ -2,9 +2,6 @@
 sidebar_position: 17
 ---
 
-
-
-
 ## 第18章 MySQL分区
 
 ### 一、分区的好处
