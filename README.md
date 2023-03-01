@@ -1,9 +1,13 @@
 # 2022-2023-1-Application-System-Architecture
 本仓库是应用系统体系架构课程作业报告集合，由于某些原因（就是我懒），所以接着上学期的仓库开发了：
 
+
 **重要更新**
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9e3fc926-7b6f-48be-b87b-1e70feafdba6/deploy-status)](https://app.netlify.com/sites/application-system-architecture/deploys)
+
 根据笔记，我已经整理发布成网站，欢迎前往：
+
 - 站点1：https://application-system-architecture.vercel.app/
 - 站点2：https://application-system-architecture.netlify.app/
 
