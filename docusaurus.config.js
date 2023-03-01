@@ -77,8 +77,8 @@ const config = {
             label: '期末复习',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://github.com/Musicminion',
+            label: 'My GitHub',
             position: 'right',
           },
         ],
