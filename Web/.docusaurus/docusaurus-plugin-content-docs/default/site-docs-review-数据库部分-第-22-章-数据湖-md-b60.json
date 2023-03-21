@@ -1,0 +1,27 @@
+{
+  "unversionedId": "review/数据库部分/第22章 数据湖",
+  "id": "review/数据库部分/第22章 数据湖",
+  "title": "第22章 数据湖",
+  "description": "第22章 数据湖",
+  "source": "@site/docs/review/数据库部分/第22章 数据湖.md",
+  "sourceDirName": "review/数据库部分",
+  "slug": "/review/数据库部分/第22章 数据湖",
+  "permalink": "/docs/review/数据库部分/第22章 数据湖",
+  "draft": false,
+  "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/review/数据库部分/第22章 数据湖.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 21,
+  "frontMatter": {
+    "sidebar_position": 21
+  },
+  "sidebar": "reviewSidebar",
+  "previous": {
+    "title": "第21章 时序数据库",
+    "permalink": "/docs/review/数据库部分/第21章 时序数据库"
+  },
+  "next": {
+    "title": "模块三 运维和集群",
+    "permalink": "/docs/category/模块三-运维和集群"
+  }
+}

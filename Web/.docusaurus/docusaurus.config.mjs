@@ -34,7 +34,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/workspaces/2022-2023-1-Application-System-Architecture/Web/sidebars.js",
+          "sidebarPath": "/home/zhangziqian/2022-2023-1-Application-System-Architecture/Web/sidebars.js",
           "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/",
           "remarkPlugins": [
             null
@@ -48,12 +48,16 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "/workspaces/2022-2023-1-Application-System-Architecture/Web/src/css/custom.css"
+          "customCss": "/home/zhangziqian/2022-2023-1-Application-System-Architecture/Web/src/css/custom.css"
         }
       }
     ]
   ],
   "themeConfig": {
+    "tableOfContents": {
+      "minHeadingLevel": 2,
+      "maxHeadingLevel": 5
+    },
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
       "title": "应用系统体系结构",
@@ -64,7 +68,13 @@ export default {
       "items": [
         {
           "type": "doc",
-          "docId": "intro",
+          "docId": "homework/intro",
+          "position": "left",
+          "label": "平时作业"
+        },
+        {
+          "type": "doc",
+          "docId": "review/intro",
           "position": "left",
           "label": "期末复习"
         },
@@ -84,7 +94,7 @@ export default {
           "items": [
             {
               "label": "期末复习",
-              "to": "/docs/intro"
+              "to": "/docs/review/intro"
             }
           ]
         },
@@ -337,11 +347,7 @@ export default {
         "autoCollapseCategories": false
       }
     },
-    "metadata": [],
-    "tableOfContents": {
-      "minHeadingLevel": 2,
-      "maxHeadingLevel": 3
-    }
+    "metadata": []
   },
   "baseUrlIssueBanner": true,
   "onDuplicateRoutes": "warn",

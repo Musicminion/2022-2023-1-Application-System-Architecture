@@ -1,0 +1,20 @@
+{
+  "unversionedId": "homework/作业四",
+  "id": "homework/作业四",
+  "title": "作业四",
+  "description": "作业四：SSL",
+  "source": "@site/docs/homework/作业四.md",
+  "sourceDirName": "homework",
+  "slug": "/homework/作业四",
+  "permalink": "/docs/homework/作业四",
+  "draft": false,
+  "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/homework/作业四.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "homeworkSidebar",
+  "previous": {
+    "title": "作业三:Websocket与线程安全",
+    "permalink": "/docs/homework/作业三:Websocket与线程安全"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "homework/作业4:SSL",
+  "id": "homework/作业4:SSL",
+  "title": "作业4:SSL",
+  "description": "作业四：SSL",
+  "source": "@site/docs/homework/4-作业4:SSL.md",
+  "sourceDirName": "homework",
+  "slug": "/homework/作业4:SSL",
+  "permalink": "/docs/homework/作业4:SSL",
+  "draft": false,
+  "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/homework/4-作业4:SSL.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "homeworkSidebar",
+  "previous": {
+    "title": "作业03:Websocket与线程安全",
+    "permalink": "/docs/homework/作业03:Websocket与线程安全"
+  },
+  "next": {
+    "title": "作业5:Redis缓存",
+    "permalink": "/docs/homework/作业5:Redis缓存"
+  }
+}

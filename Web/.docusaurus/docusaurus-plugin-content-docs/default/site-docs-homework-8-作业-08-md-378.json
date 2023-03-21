@@ -1,0 +1,21 @@
+{
+  "unversionedId": "homework/作业08:",
+  "id": "homework/作业08:",
+  "title": "作业08:",
+  "description": "第一题：",
+  "source": "@site/docs/homework/8-作业08:.md",
+  "sourceDirName": "homework",
+  "slug": "/homework/作业08:",
+  "permalink": "/docs/homework/作业08:",
+  "draft": false,
+  "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/homework/8-作业08:.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {},
+  "sidebar": "homeworkSidebar",
+  "previous": {
+    "title": "作业07:微服务",
+    "permalink": "/docs/homework/作业07:微服务"
+  }
+}

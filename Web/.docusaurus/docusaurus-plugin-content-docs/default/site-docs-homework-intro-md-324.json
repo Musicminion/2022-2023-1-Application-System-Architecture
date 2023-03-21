@@ -1,0 +1,20 @@
+{
+  "unversionedId": "homework/intro",
+  "id": "homework/intro",
+  "title": "intro",
+  "description": "作业部分",
+  "source": "@site/docs/homework/intro.md",
+  "sourceDirName": "homework",
+  "slug": "/homework/intro",
+  "permalink": "/docs/homework/intro",
+  "draft": false,
+  "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/homework/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "homeworkSidebar",
+  "previous": {
+    "title": "作业二:Kafka 消息中间件",
+    "permalink": "/docs/homework/作业二:Kafka 消息中间件"
+  }
+}

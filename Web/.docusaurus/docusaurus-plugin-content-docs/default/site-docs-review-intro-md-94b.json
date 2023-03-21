@@ -1,0 +1,23 @@
+{
+  "unversionedId": "review/intro",
+  "id": "review/intro",
+  "title": "应用系统体系架构",
+  "description": "本部分是应用系统体系架构的笔记，如果需要下载，请点击：",
+  "source": "@site/docs/review/intro.md",
+  "sourceDirName": "review",
+  "slug": "/review/intro",
+  "permalink": "/docs/review/intro",
+  "draft": false,
+  "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/review/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "reviewSidebar",
+  "next": {
+    "title": "模块一 Web开发进阶",
+    "permalink": "/docs/category/模块一-web开发进阶"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "review/Web开发进阶/第09章 缓存和Redis",
+  "id": "review/Web开发进阶/第09章 缓存和Redis",
+  "title": "第09章 缓存和Redis",
+  "description": "第9章 缓存和Redis",
+  "source": "@site/docs/review/Web开发进阶/第09章 缓存和Redis.md",
+  "sourceDirName": "review/Web开发进阶",
+  "slug": "/review/Web开发进阶/第09章 缓存和Redis",
+  "permalink": "/docs/review/Web开发进阶/第09章 缓存和Redis",
+  "draft": false,
+  "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/review/Web开发进阶/第09章 缓存和Redis.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "reviewSidebar",
+  "previous": {
+    "title": "第08章 jwt与SSO",
+    "permalink": "/docs/review/Web开发进阶/第08章 jwt与SSO"
+  },
+  "next": {
+    "title": "第10章 全文搜索",
+    "permalink": "/docs/review/Web开发进阶/第10章 全文搜索"
+  }
+}

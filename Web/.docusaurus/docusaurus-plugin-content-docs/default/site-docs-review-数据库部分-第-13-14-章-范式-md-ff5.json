@@ -1,0 +1,27 @@
+{
+  "unversionedId": "review/数据库部分/第13-14章 范式",
+  "id": "review/数据库部分/第13-14章 范式",
+  "title": "第13-14章 范式",
+  "description": "第13-14章 范式",
+  "source": "@site/docs/review/数据库部分/第13-14章 范式.md",
+  "sourceDirName": "review/数据库部分",
+  "slug": "/review/数据库部分/第13-14章 范式",
+  "permalink": "/docs/review/数据库部分/第13-14章 范式",
+  "draft": false,
+  "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/review/数据库部分/第13-14章 范式.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "sidebar_position": 13
+  },
+  "sidebar": "reviewSidebar",
+  "previous": {
+    "title": "模块二 数据库部分",
+    "permalink": "/docs/category/模块二-数据库部分"
+  },
+  "next": {
+    "title": "第15章 MySQL优化（一）",
+    "permalink": "/docs/review/数据库部分/第15章 MySQL优化（一）"
+  }
+}

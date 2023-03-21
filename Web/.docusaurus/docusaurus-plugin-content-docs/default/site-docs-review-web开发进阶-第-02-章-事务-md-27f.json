@@ -1,0 +1,27 @@
+{
+  "unversionedId": "review/Web开发进阶/第02章 事务",
+  "id": "review/Web开发进阶/第02章 事务",
+  "title": "第02章 事务",
+  "description": "第2章 事务",
+  "source": "@site/docs/review/Web开发进阶/第02章 事务.md",
+  "sourceDirName": "review/Web开发进阶",
+  "slug": "/review/Web开发进阶/第02章 事务",
+  "permalink": "/docs/review/Web开发进阶/第02章 事务",
+  "draft": false,
+  "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/review/Web开发进阶/第02章 事务.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "reviewSidebar",
+  "previous": {
+    "title": "第01章 实例",
+    "permalink": "/docs/review/Web开发进阶/第01章 实例"
+  },
+  "next": {
+    "title": "第03章 Message",
+    "permalink": "/docs/review/Web开发进阶/第03章 Message"
+  }
+}

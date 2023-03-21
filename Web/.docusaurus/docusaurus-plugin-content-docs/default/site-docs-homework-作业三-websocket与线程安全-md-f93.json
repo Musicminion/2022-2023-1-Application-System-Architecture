@@ -1,0 +1,20 @@
+{
+  "unversionedId": "homework/作业三 Websocket与线程安全",
+  "id": "homework/作业三 Websocket与线程安全",
+  "title": "作业三 Websocket与线程安全",
+  "description": "作业三 Websocket与线程安全",
+  "source": "@site/docs/homework/作业三 Websocket与线程安全.md",
+  "sourceDirName": "homework",
+  "slug": "/homework/作业三 Websocket与线程安全",
+  "permalink": "/docs/homework/作业三 Websocket与线程安全",
+  "draft": false,
+  "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/homework/作业三 Websocket与线程安全.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "homeworkSidebar",
+  "previous": {
+    "title": "作业二:Kafka 消息中间件",
+    "permalink": "/docs/homework/作业二:Kafka 消息中间件"
+  }
+}

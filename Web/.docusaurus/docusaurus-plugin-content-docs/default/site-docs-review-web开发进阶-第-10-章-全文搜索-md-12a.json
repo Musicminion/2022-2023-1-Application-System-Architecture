@@ -1,0 +1,27 @@
+{
+  "unversionedId": "review/Web开发进阶/第10章 全文搜索",
+  "id": "review/Web开发进阶/第10章 全文搜索",
+  "title": "第10章 全文搜索",
+  "description": "第10章 全文搜索",
+  "source": "@site/docs/review/Web开发进阶/第10章 全文搜索.md",
+  "sourceDirName": "review/Web开发进阶",
+  "slug": "/review/Web开发进阶/第10章 全文搜索",
+  "permalink": "/docs/review/Web开发进阶/第10章 全文搜索",
+  "draft": false,
+  "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/review/Web开发进阶/第10章 全文搜索.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "reviewSidebar",
+  "previous": {
+    "title": "第09章 缓存和Redis",
+    "permalink": "/docs/review/Web开发进阶/第09章 缓存和Redis"
+  },
+  "next": {
+    "title": "第11章 Web服务",
+    "permalink": "/docs/review/Web开发进阶/第11章 Web服务"
+  }
+}

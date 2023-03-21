@@ -1,0 +1,27 @@
+{
+  "unversionedId": "homework/作业11:MongoDB和Neo4j数据库",
+  "id": "homework/作业11:MongoDB和Neo4j数据库",
+  "title": "作业11:MongoDB和Neo4j数据库",
+  "description": "作业十一：MongoDB和Neo4j数据库",
+  "source": "@site/docs/homework/11-作业11:MongoDB和Neo4j数据库.md",
+  "sourceDirName": "homework",
+  "slug": "/homework/作业11:MongoDB和Neo4j数据库",
+  "permalink": "/docs/homework/作业11:MongoDB和Neo4j数据库",
+  "draft": false,
+  "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/homework/11-作业11:MongoDB和Neo4j数据库.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_position": 12
+  },
+  "sidebar": "homeworkSidebar",
+  "previous": {
+    "title": "作业10:数据库备份",
+    "permalink": "/docs/homework/作业10:数据库备份"
+  },
+  "next": {
+    "title": "作业12:TSDB & Cluster",
+    "permalink": "/docs/homework/作业12:TSDB & Cluster"
+  }
+}

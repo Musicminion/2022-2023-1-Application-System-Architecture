@@ -1,0 +1,24 @@
+{
+  "unversionedId": "homework/作业9",
+  "id": "homework/作业9",
+  "title": "作业9",
+  "description": "问题一：在聚簇索引上执行查询，尤其是范围查询时，它的执行效率会非常高。请问， 为什么聚簇索引的效率高？",
+  "source": "@site/docs/homework/作业9.md",
+  "sourceDirName": "homework",
+  "slug": "/homework/作业9",
+  "permalink": "/docs/homework/作业9",
+  "draft": false,
+  "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/homework/作业9.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "homeworkSidebar",
+  "previous": {
+    "title": "作业08:课堂签到小测",
+    "permalink": "/docs/homework/作业08:课堂签到小测"
+  },
+  "next": {
+    "title": "作业十：数据库备份",
+    "permalink": "/docs/homework/作业十：数据库备份"
+  }
+}

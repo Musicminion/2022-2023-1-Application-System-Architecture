@@ -8,12 +8,12 @@
   "className": "docs-version-current",
   "isLast": true,
   "docsSidebars": {
-    "tutorialSidebar": [
+    "reviewSidebar": [
       {
         "type": "link",
         "label": "应用系统体系架构",
-        "href": "/docs/intro",
-        "docId": "intro"
+        "href": "/docs/review/intro",
+        "docId": "review/intro"
       },
       {
         "type": "category",
@@ -24,74 +24,74 @@
           {
             "type": "link",
             "label": "第01章 实例",
-            "href": "/docs/Web开发进阶/第01章 实例",
-            "docId": "Web开发进阶/第01章 实例"
+            "href": "/docs/review/Web开发进阶/第01章 实例",
+            "docId": "review/Web开发进阶/第01章 实例"
           },
           {
             "type": "link",
             "label": "第02章 事务",
-            "href": "/docs/Web开发进阶/第02章 事务",
-            "docId": "Web开发进阶/第02章 事务"
+            "href": "/docs/review/Web开发进阶/第02章 事务",
+            "docId": "review/Web开发进阶/第02章 事务"
           },
           {
             "type": "link",
             "label": "第03章 Message",
-            "href": "/docs/Web开发进阶/第03章 Message",
-            "docId": "Web开发进阶/第03章 Message"
+            "href": "/docs/review/Web开发进阶/第03章 Message",
+            "docId": "review/Web开发进阶/第03章 Message"
           },
           {
             "type": "link",
             "label": "第04章 Kafka",
-            "href": "/docs/Web开发进阶/第04章 Kafka",
-            "docId": "Web开发进阶/第04章 Kafka"
+            "href": "/docs/review/Web开发进阶/第04章 Kafka",
+            "docId": "review/Web开发进阶/第04章 Kafka"
           },
           {
             "type": "link",
             "label": "第05章 WebSocket",
-            "href": "/docs/Web开发进阶/第05章 WebSocket",
-            "docId": "Web开发进阶/第05章 WebSocket"
+            "href": "/docs/review/Web开发进阶/第05章 WebSocket",
+            "docId": "review/Web开发进阶/第05章 WebSocket"
           },
           {
             "type": "link",
             "label": "第06章 多线程",
-            "href": "/docs/Web开发进阶/第06章 多线程",
-            "docId": "Web开发进阶/第06章 多线程"
+            "href": "/docs/review/Web开发进阶/第06章 多线程",
+            "docId": "review/Web开发进阶/第06章 多线程"
           },
           {
             "type": "link",
             "label": "第07章 安全",
-            "href": "/docs/Web开发进阶/第07章 安全",
-            "docId": "Web开发进阶/第07章 安全"
+            "href": "/docs/review/Web开发进阶/第07章 安全",
+            "docId": "review/Web开发进阶/第07章 安全"
           },
           {
             "type": "link",
             "label": "第08章 jwt与SSO",
-            "href": "/docs/Web开发进阶/第08章 jwt与SSO",
-            "docId": "Web开发进阶/第08章 jwt与SSO"
+            "href": "/docs/review/Web开发进阶/第08章 jwt与SSO",
+            "docId": "review/Web开发进阶/第08章 jwt与SSO"
           },
           {
             "type": "link",
             "label": "第09章 缓存和Redis",
-            "href": "/docs/Web开发进阶/第09章 缓存和Redis",
-            "docId": "Web开发进阶/第09章 缓存和Redis"
+            "href": "/docs/review/Web开发进阶/第09章 缓存和Redis",
+            "docId": "review/Web开发进阶/第09章 缓存和Redis"
           },
           {
             "type": "link",
             "label": "第10章 全文搜索",
-            "href": "/docs/Web开发进阶/第10章 全文搜索",
-            "docId": "Web开发进阶/第10章 全文搜索"
+            "href": "/docs/review/Web开发进阶/第10章 全文搜索",
+            "docId": "review/Web开发进阶/第10章 全文搜索"
           },
           {
             "type": "link",
             "label": "第11章 Web服务",
-            "href": "/docs/Web开发进阶/第11章 Web服务",
-            "docId": "Web开发进阶/第11章 Web服务"
+            "href": "/docs/review/Web开发进阶/第11章 Web服务",
+            "docId": "review/Web开发进阶/第11章 Web服务"
           },
           {
             "type": "link",
             "label": "第12章 微服务",
-            "href": "/docs/Web开发进阶/第12章 微服务",
-            "docId": "Web开发进阶/第12章 微服务"
+            "href": "/docs/review/Web开发进阶/第12章 微服务",
+            "docId": "review/Web开发进阶/第12章 微服务"
           }
         ],
         "href": "/docs/category/模块一-web开发进阶"
@@ -105,56 +105,56 @@
           {
             "type": "link",
             "label": "第13-14章 范式",
-            "href": "/docs/数据库部分/第13-14章 范式",
-            "docId": "数据库部分/第13-14章 范式"
+            "href": "/docs/review/数据库部分/第13-14章 范式",
+            "docId": "review/数据库部分/第13-14章 范式"
           },
           {
             "type": "link",
             "label": "第15章 MySQL优化（一）",
-            "href": "/docs/数据库部分/第15章 MySQL优化（一）",
-            "docId": "数据库部分/第15章 MySQL优化（一）"
+            "href": "/docs/review/数据库部分/第15章 MySQL优化（一）",
+            "docId": "review/数据库部分/第15章 MySQL优化（一）"
           },
           {
             "type": "link",
             "label": "第16章 MySQL优化（二）",
-            "href": "/docs/数据库部分/第16章 MySQL优化（二）",
-            "docId": "数据库部分/第16章 MySQL优化（二）"
+            "href": "/docs/review/数据库部分/第16章 MySQL优化（二）",
+            "docId": "review/数据库部分/第16章 MySQL优化（二）"
           },
           {
             "type": "link",
             "label": "第17章 MySQL备份和恢复",
-            "href": "/docs/数据库部分/第17章 MySQL备份和恢复",
-            "docId": "数据库部分/第17章 MySQL备份和恢复"
+            "href": "/docs/review/数据库部分/第17章 MySQL备份和恢复",
+            "docId": "review/数据库部分/第17章 MySQL备份和恢复"
           },
           {
             "type": "link",
             "label": "第18章 MySQL分区",
-            "href": "/docs/数据库部分/第18章 MySQL分区",
-            "docId": "数据库部分/第18章 MySQL分区"
+            "href": "/docs/review/数据库部分/第18章 MySQL分区",
+            "docId": "review/数据库部分/第18章 MySQL分区"
           },
           {
             "type": "link",
             "label": "第19章 MongoDB",
-            "href": "/docs/数据库部分/第19章 MongoDB",
-            "docId": "数据库部分/第19章 MongoDB"
+            "href": "/docs/review/数据库部分/第19章 MongoDB",
+            "docId": "review/数据库部分/第19章 MongoDB"
           },
           {
             "type": "link",
             "label": "第20章 图数据库",
-            "href": "/docs/数据库部分/第20章 图数据库",
-            "docId": "数据库部分/第20章 图数据库"
+            "href": "/docs/review/数据库部分/第20章 图数据库",
+            "docId": "review/数据库部分/第20章 图数据库"
           },
           {
             "type": "link",
             "label": "第21章 时序数据库",
-            "href": "/docs/数据库部分/第21章 时序数据库",
-            "docId": "数据库部分/第21章 时序数据库"
+            "href": "/docs/review/数据库部分/第21章 时序数据库",
+            "docId": "review/数据库部分/第21章 时序数据库"
           },
           {
             "type": "link",
             "label": "第22章 数据湖",
-            "href": "/docs/数据库部分/第22章 数据湖",
-            "docId": "数据库部分/第22章 数据湖"
+            "href": "/docs/review/数据库部分/第22章 数据湖",
+            "docId": "review/数据库部分/第22章 数据湖"
           }
         ],
         "href": "/docs/category/模块二-数据库部分"
@@ -168,164 +168,322 @@
           {
             "type": "link",
             "label": "第23章 集群",
-            "href": "/docs/运维和集群部分/第23章 集群",
-            "docId": "运维和集群部分/第23章 集群"
+            "href": "/docs/review/运维和集群部分/第23章 集群",
+            "docId": "review/运维和集群部分/第23章 集群"
           },
           {
             "type": "link",
             "label": "第24章 Hadoop MR",
-            "href": "/docs/运维和集群部分/第24章 Hadoop MR",
-            "docId": "运维和集群部分/第24章 Hadoop MR"
+            "href": "/docs/review/运维和集群部分/第24章 Hadoop MR",
+            "docId": "review/运维和集群部分/第24章 Hadoop MR"
           }
         ],
         "href": "/docs/category/模块三-运维和集群"
       }
+    ],
+    "homeworkSidebar": [
+      {
+        "type": "link",
+        "label": "作业部分概述",
+        "href": "/docs/homework/intro",
+        "docId": "homework/intro"
+      },
+      {
+        "type": "link",
+        "label": "作业01:事务与管理",
+        "href": "/docs/homework/作业01:事务与管理",
+        "docId": "homework/作业01:事务与管理"
+      },
+      {
+        "type": "link",
+        "label": "作业02:Kafka 消息中间件",
+        "href": "/docs/homework/作业02:Kafka 消息中间件",
+        "docId": "homework/作业02:Kafka 消息中间件"
+      },
+      {
+        "type": "link",
+        "label": "作业03:Websocket与线程安全",
+        "href": "/docs/homework/作业03:Websocket与线程安全",
+        "docId": "homework/作业03:Websocket与线程安全"
+      },
+      {
+        "type": "link",
+        "label": "作业04:SSL",
+        "href": "/docs/homework/作业04:SSL",
+        "docId": "homework/作业04:SSL"
+      },
+      {
+        "type": "link",
+        "label": "作业05:Redis缓存",
+        "href": "/docs/homework/作业05:Redis缓存",
+        "docId": "homework/作业05:Redis缓存"
+      },
+      {
+        "type": "link",
+        "label": "作业06:全文搜索",
+        "href": "/docs/homework/作业06:全文搜索",
+        "docId": "homework/作业06:全文搜索"
+      },
+      {
+        "type": "link",
+        "label": "作业07:微服务",
+        "href": "/docs/homework/作业07:微服务",
+        "docId": "homework/作业07:微服务"
+      },
+      {
+        "type": "link",
+        "label": "作业08:课堂签到小测",
+        "href": "/docs/homework/作业08:课堂签到小测",
+        "docId": "homework/作业08:课堂签到小测"
+      },
+      {
+        "type": "link",
+        "label": "作业09:数据库",
+        "href": "/docs/homework/作业09:数据库",
+        "docId": "homework/作业09:数据库"
+      },
+      {
+        "type": "link",
+        "label": "作业10:数据库备份",
+        "href": "/docs/homework/作业10:数据库备份",
+        "docId": "homework/作业10:数据库备份"
+      },
+      {
+        "type": "link",
+        "label": "作业11:MongoDB和Neo4j数据库",
+        "href": "/docs/homework/作业11:MongoDB和Neo4j数据库",
+        "docId": "homework/作业11:MongoDB和Neo4j数据库"
+      },
+      {
+        "type": "link",
+        "label": "作业12:TSDB & Cluster",
+        "href": "/docs/homework/作业12:TSDB & Cluster",
+        "docId": "homework/作业12:TSDB & Cluster"
+      }
     ]
   },
   "docs": {
-    "intro": {
-      "id": "intro",
+    "homework/intro": {
+      "id": "homework/intro",
+      "title": "作业部分概述",
+      "description": "这部分是应用系统体系架构的作业",
+      "sidebar": "homeworkSidebar"
+    },
+    "homework/作业01:事务与管理": {
+      "id": "homework/作业01:事务与管理",
+      "title": "作业01:事务与管理",
+      "description": "作业一",
+      "sidebar": "homeworkSidebar"
+    },
+    "homework/作业02:Kafka 消息中间件": {
+      "id": "homework/作业02:Kafka 消息中间件",
+      "title": "作业02:Kafka 消息中间件",
+      "description": "作业二 Kafka 消息中间件处理订单",
+      "sidebar": "homeworkSidebar"
+    },
+    "homework/作业03:Websocket与线程安全": {
+      "id": "homework/作业03:Websocket与线程安全",
+      "title": "作业03:Websocket与线程安全",
+      "description": "作业三 Websocket与线程安全",
+      "sidebar": "homeworkSidebar"
+    },
+    "homework/作业04:SSL": {
+      "id": "homework/作业04:SSL",
+      "title": "作业04:SSL",
+      "description": "作业四：SSL",
+      "sidebar": "homeworkSidebar"
+    },
+    "homework/作业05:Redis缓存": {
+      "id": "homework/作业05:Redis缓存",
+      "title": "作业05:Redis缓存",
+      "description": "作业五 Redis缓存",
+      "sidebar": "homeworkSidebar"
+    },
+    "homework/作业06:全文搜索": {
+      "id": "homework/作业06:全文搜索",
+      "title": "作业06:全文搜索",
+      "description": "作业六：全文搜索",
+      "sidebar": "homeworkSidebar"
+    },
+    "homework/作业07:微服务": {
+      "id": "homework/作业07:微服务",
+      "title": "作业07:微服务",
+      "description": "作业7 微服务",
+      "sidebar": "homeworkSidebar"
+    },
+    "homework/作业08:课堂签到小测": {
+      "id": "homework/作业08:课堂签到小测",
+      "title": "作业08:课堂签到小测",
+      "description": "第一题：",
+      "sidebar": "homeworkSidebar"
+    },
+    "homework/作业09:数据库": {
+      "id": "homework/作业09:数据库",
+      "title": "作业09:数据库",
+      "description": "问题一：在聚簇索引上执行查询，尤其是范围查询时，它的执行效率会非常高。请问， 为什么聚簇索引的效率高？",
+      "sidebar": "homeworkSidebar"
+    },
+    "homework/作业10:数据库备份": {
+      "id": "homework/作业10:数据库备份",
+      "title": "作业10:数据库备份",
+      "description": "作业十：数据库备份",
+      "sidebar": "homeworkSidebar"
+    },
+    "homework/作业11:MongoDB和Neo4j数据库": {
+      "id": "homework/作业11:MongoDB和Neo4j数据库",
+      "title": "作业11:MongoDB和Neo4j数据库",
+      "description": "作业十一：MongoDB和Neo4j数据库",
+      "sidebar": "homeworkSidebar"
+    },
+    "homework/作业12:TSDB & Cluster": {
+      "id": "homework/作业12:TSDB & Cluster",
+      "title": "作业12:TSDB & Cluster",
+      "description": "作业12 TSDB & Cluster",
+      "sidebar": "homeworkSidebar"
+    },
+    "review/intro": {
+      "id": "review/intro",
       "title": "应用系统体系架构",
       "description": "本部分是应用系统体系架构的笔记，如果需要下载，请点击：",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "reviewSidebar"
     },
-    "Web开发进阶/第01章 实例": {
-      "id": "Web开发进阶/第01章 实例",
+    "review/Web开发进阶/第01章 实例": {
+      "id": "review/Web开发进阶/第01章 实例",
       "title": "第01章 实例",
       "description": "第1章 实例",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "reviewSidebar"
     },
-    "Web开发进阶/第02章 事务": {
-      "id": "Web开发进阶/第02章 事务",
+    "review/Web开发进阶/第02章 事务": {
+      "id": "review/Web开发进阶/第02章 事务",
       "title": "第02章 事务",
       "description": "第2章 事务",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "reviewSidebar"
     },
-    "Web开发进阶/第03章 Message": {
-      "id": "Web开发进阶/第03章 Message",
+    "review/Web开发进阶/第03章 Message": {
+      "id": "review/Web开发进阶/第03章 Message",
       "title": "第03章 Message",
       "description": "第3章 Message",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "reviewSidebar"
     },
-    "Web开发进阶/第04章 Kafka": {
-      "id": "Web开发进阶/第04章 Kafka",
+    "review/Web开发进阶/第04章 Kafka": {
+      "id": "review/Web开发进阶/第04章 Kafka",
       "title": "第04章 Kafka",
       "description": "第4章 Kafka",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "reviewSidebar"
     },
-    "Web开发进阶/第05章 WebSocket": {
-      "id": "Web开发进阶/第05章 WebSocket",
+    "review/Web开发进阶/第05章 WebSocket": {
+      "id": "review/Web开发进阶/第05章 WebSocket",
       "title": "第05章 WebSocket",
       "description": "第5章 WebSocket",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "reviewSidebar"
     },
-    "Web开发进阶/第06章 多线程": {
-      "id": "Web开发进阶/第06章 多线程",
+    "review/Web开发进阶/第06章 多线程": {
+      "id": "review/Web开发进阶/第06章 多线程",
       "title": "第06章 多线程",
       "description": "第6章 多线程",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "reviewSidebar"
     },
-    "Web开发进阶/第07章 安全": {
-      "id": "Web开发进阶/第07章 安全",
+    "review/Web开发进阶/第07章 安全": {
+      "id": "review/Web开发进阶/第07章 安全",
       "title": "第07章 安全",
       "description": "第7章 安全",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "reviewSidebar"
     },
-    "Web开发进阶/第08章 jwt与SSO": {
-      "id": "Web开发进阶/第08章 jwt与SSO",
+    "review/Web开发进阶/第08章 jwt与SSO": {
+      "id": "review/Web开发进阶/第08章 jwt与SSO",
       "title": "第08章 jwt与SSO",
       "description": "第8章 jwt与SSO",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "reviewSidebar"
     },
-    "Web开发进阶/第09章 缓存和Redis": {
-      "id": "Web开发进阶/第09章 缓存和Redis",
+    "review/Web开发进阶/第09章 缓存和Redis": {
+      "id": "review/Web开发进阶/第09章 缓存和Redis",
       "title": "第09章 缓存和Redis",
       "description": "第9章 缓存和Redis",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "reviewSidebar"
     },
-    "Web开发进阶/第10章 全文搜索": {
-      "id": "Web开发进阶/第10章 全文搜索",
+    "review/Web开发进阶/第10章 全文搜索": {
+      "id": "review/Web开发进阶/第10章 全文搜索",
       "title": "第10章 全文搜索",
       "description": "第10章 全文搜索",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "reviewSidebar"
     },
-    "Web开发进阶/第11章 Web服务": {
-      "id": "Web开发进阶/第11章 Web服务",
+    "review/Web开发进阶/第11章 Web服务": {
+      "id": "review/Web开发进阶/第11章 Web服务",
       "title": "第11章 Web服务",
       "description": "第11章 Web服务",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "reviewSidebar"
     },
-    "Web开发进阶/第12章 微服务": {
-      "id": "Web开发进阶/第12章 微服务",
+    "review/Web开发进阶/第12章 微服务": {
+      "id": "review/Web开发进阶/第12章 微服务",
       "title": "第12章 微服务",
       "description": "第12章 微服务",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "reviewSidebar"
     },
-    "数据库部分/第13-14章 范式": {
-      "id": "数据库部分/第13-14章 范式",
+    "review/数据库部分/第13-14章 范式": {
+      "id": "review/数据库部分/第13-14章 范式",
       "title": "第13-14章 范式",
       "description": "第13-14章 范式",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "reviewSidebar"
     },
-    "数据库部分/第15章 MySQL优化（一）": {
-      "id": "数据库部分/第15章 MySQL优化（一）",
+    "review/数据库部分/第15章 MySQL优化（一）": {
+      "id": "review/数据库部分/第15章 MySQL优化（一）",
       "title": "第15章 MySQL优化（一）",
       "description": "第15章 MySQL优化（一）",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "reviewSidebar"
     },
-    "数据库部分/第16章 MySQL优化（二）": {
-      "id": "数据库部分/第16章 MySQL优化（二）",
+    "review/数据库部分/第16章 MySQL优化（二）": {
+      "id": "review/数据库部分/第16章 MySQL优化（二）",
       "title": "第16章 MySQL优化（二）",
       "description": "第16章 MySQL优化（二）",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "reviewSidebar"
     },
-    "数据库部分/第17章 MySQL备份和恢复": {
-      "id": "数据库部分/第17章 MySQL备份和恢复",
+    "review/数据库部分/第17章 MySQL备份和恢复": {
+      "id": "review/数据库部分/第17章 MySQL备份和恢复",
       "title": "第17章 MySQL备份和恢复",
       "description": "第17章 MySQL备份和恢复",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "reviewSidebar"
     },
-    "数据库部分/第18章 MySQL分区": {
-      "id": "数据库部分/第18章 MySQL分区",
+    "review/数据库部分/第18章 MySQL分区": {
+      "id": "review/数据库部分/第18章 MySQL分区",
       "title": "第18章 MySQL分区",
       "description": "第18章 MySQL分区",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "reviewSidebar"
     },
-    "数据库部分/第19章 MongoDB": {
-      "id": "数据库部分/第19章 MongoDB",
+    "review/数据库部分/第19章 MongoDB": {
+      "id": "review/数据库部分/第19章 MongoDB",
       "title": "第19章 MongoDB",
       "description": "第19章 MongoDB",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "reviewSidebar"
     },
-    "数据库部分/第20章 图数据库": {
-      "id": "数据库部分/第20章 图数据库",
+    "review/数据库部分/第20章 图数据库": {
+      "id": "review/数据库部分/第20章 图数据库",
       "title": "第20章 图数据库",
       "description": "第20章 图数据库",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "reviewSidebar"
     },
-    "数据库部分/第21章 时序数据库": {
-      "id": "数据库部分/第21章 时序数据库",
+    "review/数据库部分/第21章 时序数据库": {
+      "id": "review/数据库部分/第21章 时序数据库",
       "title": "第21章 时序数据库",
       "description": "第21章 时序数据库",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "reviewSidebar"
     },
-    "数据库部分/第22章 数据湖": {
-      "id": "数据库部分/第22章 数据湖",
+    "review/数据库部分/第22章 数据湖": {
+      "id": "review/数据库部分/第22章 数据湖",
       "title": "第22章 数据湖",
       "description": "第22章 数据湖",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "reviewSidebar"
     },
-    "运维和集群部分/第23章 集群": {
-      "id": "运维和集群部分/第23章 集群",
+    "review/运维和集群部分/第23章 集群": {
+      "id": "review/运维和集群部分/第23章 集群",
       "title": "第23章 集群",
       "description": "第23章 集群",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "reviewSidebar"
     },
-    "运维和集群部分/第24章 Hadoop MR": {
-      "id": "运维和集群部分/第24章 Hadoop MR",
+    "review/运维和集群部分/第24章 Hadoop MR": {
+      "id": "review/运维和集群部分/第24章 Hadoop MR",
       "title": "第24章 Hadoop MR",
       "description": "第24章 Hadoop MR",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "reviewSidebar"
     }
   }
 }

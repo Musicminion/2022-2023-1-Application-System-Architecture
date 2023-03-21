@@ -15,594 +15,937 @@
           "editUrlLocalized": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/workspaces/2022-2023-1-Application-System-Architecture/Web/sidebars.js",
-          "contentPath": "/workspaces/2022-2023-1-Application-System-Architecture/Web/docs",
-          "contentPathLocalized": "/workspaces/2022-2023-1-Application-System-Architecture/Web/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/home/zhangziqian/2022-2023-1-Application-System-Architecture/Web/sidebars.js",
+          "contentPath": "/home/zhangziqian/2022-2023-1-Application-System-Architecture/Web/docs",
+          "contentPathLocalized": "/home/zhangziqian/2022-2023-1-Application-System-Architecture/Web/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
-              "unversionedId": "intro",
-              "id": "intro",
-              "title": "应用系统体系架构",
-              "description": "本部分是应用系统体系架构的笔记，如果需要下载，请点击：",
-              "source": "@site/docs/intro.md",
-              "sourceDirName": ".",
-              "slug": "/intro",
-              "permalink": "/docs/intro",
+              "unversionedId": "homework/intro",
+              "id": "homework/intro",
+              "title": "作业部分概述",
+              "description": "这部分是应用系统体系架构的作业",
+              "source": "@site/docs/homework/0-intro.md",
+              "sourceDirName": "homework",
+              "slug": "/homework/intro",
+              "permalink": "/docs/homework/intro",
               "draft": false,
-              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/intro.md",
+              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/homework/0-intro.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
                 "sidebar_position": 1
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "homeworkSidebar",
               "next": {
-                "title": "模块一 Web开发进阶",
-                "permalink": "/docs/category/模块一-web开发进阶"
+                "title": "作业01:事务与管理",
+                "permalink": "/docs/homework/作业01:事务与管理"
               }
             },
             {
-              "unversionedId": "Web开发进阶/第01章 实例",
-              "id": "Web开发进阶/第01章 实例",
-              "title": "第01章 实例",
-              "description": "第1章 实例",
-              "source": "@site/docs/Web开发进阶/第01章 实例.md",
-              "sourceDirName": "Web开发进阶",
-              "slug": "/Web开发进阶/第01章 实例",
-              "permalink": "/docs/Web开发进阶/第01章 实例",
+              "unversionedId": "homework/作业01:事务与管理",
+              "id": "homework/作业01:事务与管理",
+              "title": "作业01:事务与管理",
+              "description": "作业一",
+              "source": "@site/docs/homework/1-作业01:事务与管理.md",
+              "sourceDirName": "homework",
+              "slug": "/homework/作业01:事务与管理",
+              "permalink": "/docs/homework/作业01:事务与管理",
               "draft": false,
-              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/Web开发进阶/第01章 实例.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "模块一 Web开发进阶",
-                "permalink": "/docs/category/模块一-web开发进阶"
-              },
-              "next": {
-                "title": "第02章 事务",
-                "permalink": "/docs/Web开发进阶/第02章 事务"
-              }
-            },
-            {
-              "unversionedId": "Web开发进阶/第02章 事务",
-              "id": "Web开发进阶/第02章 事务",
-              "title": "第02章 事务",
-              "description": "第2章 事务",
-              "source": "@site/docs/Web开发进阶/第02章 事务.md",
-              "sourceDirName": "Web开发进阶",
-              "slug": "/Web开发进阶/第02章 事务",
-              "permalink": "/docs/Web开发进阶/第02章 事务",
-              "draft": false,
-              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/Web开发进阶/第02章 事务.md",
+              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/homework/1-作业01:事务与管理.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
               "frontMatter": {
                 "sidebar_position": 2
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "homeworkSidebar",
               "previous": {
-                "title": "第01章 实例",
-                "permalink": "/docs/Web开发进阶/第01章 实例"
+                "title": "作业部分概述",
+                "permalink": "/docs/homework/intro"
               },
               "next": {
-                "title": "第03章 Message",
-                "permalink": "/docs/Web开发进阶/第03章 Message"
+                "title": "作业02:Kafka 消息中间件",
+                "permalink": "/docs/homework/作业02:Kafka 消息中间件"
               }
             },
             {
-              "unversionedId": "Web开发进阶/第03章 Message",
-              "id": "Web开发进阶/第03章 Message",
-              "title": "第03章 Message",
-              "description": "第3章 Message",
-              "source": "@site/docs/Web开发进阶/第03章 Message.md",
-              "sourceDirName": "Web开发进阶",
-              "slug": "/Web开发进阶/第03章 Message",
-              "permalink": "/docs/Web开发进阶/第03章 Message",
+              "unversionedId": "homework/作业02:Kafka 消息中间件",
+              "id": "homework/作业02:Kafka 消息中间件",
+              "title": "作业02:Kafka 消息中间件",
+              "description": "作业二 Kafka 消息中间件处理订单",
+              "source": "@site/docs/homework/2-作业02:Kafka 消息中间件.md",
+              "sourceDirName": "homework",
+              "slug": "/homework/作业02:Kafka 消息中间件",
+              "permalink": "/docs/homework/作业02:Kafka 消息中间件",
               "draft": false,
-              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/Web开发进阶/第03章 Message.md",
+              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/homework/2-作业02:Kafka 消息中间件.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
               "frontMatter": {
                 "sidebar_position": 3
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "homeworkSidebar",
               "previous": {
-                "title": "第02章 事务",
-                "permalink": "/docs/Web开发进阶/第02章 事务"
+                "title": "作业01:事务与管理",
+                "permalink": "/docs/homework/作业01:事务与管理"
               },
               "next": {
-                "title": "第04章 Kafka",
-                "permalink": "/docs/Web开发进阶/第04章 Kafka"
+                "title": "作业03:Websocket与线程安全",
+                "permalink": "/docs/homework/作业03:Websocket与线程安全"
               }
             },
             {
-              "unversionedId": "Web开发进阶/第04章 Kafka",
-              "id": "Web开发进阶/第04章 Kafka",
-              "title": "第04章 Kafka",
-              "description": "第4章 Kafka",
-              "source": "@site/docs/Web开发进阶/第04章 Kafka.md",
-              "sourceDirName": "Web开发进阶",
-              "slug": "/Web开发进阶/第04章 Kafka",
-              "permalink": "/docs/Web开发进阶/第04章 Kafka",
+              "unversionedId": "homework/作业03:Websocket与线程安全",
+              "id": "homework/作业03:Websocket与线程安全",
+              "title": "作业03:Websocket与线程安全",
+              "description": "作业三 Websocket与线程安全",
+              "source": "@site/docs/homework/3-作业03:Websocket与线程安全.md",
+              "sourceDirName": "homework",
+              "slug": "/homework/作业03:Websocket与线程安全",
+              "permalink": "/docs/homework/作业03:Websocket与线程安全",
               "draft": false,
-              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/Web开发进阶/第04章 Kafka.md",
+              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/homework/3-作业03:Websocket与线程安全.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
               "frontMatter": {
                 "sidebar_position": 4
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "homeworkSidebar",
               "previous": {
-                "title": "第03章 Message",
-                "permalink": "/docs/Web开发进阶/第03章 Message"
+                "title": "作业02:Kafka 消息中间件",
+                "permalink": "/docs/homework/作业02:Kafka 消息中间件"
               },
               "next": {
-                "title": "第05章 WebSocket",
-                "permalink": "/docs/Web开发进阶/第05章 WebSocket"
+                "title": "作业04:SSL",
+                "permalink": "/docs/homework/作业04:SSL"
               }
             },
             {
-              "unversionedId": "Web开发进阶/第05章 WebSocket",
-              "id": "Web开发进阶/第05章 WebSocket",
-              "title": "第05章 WebSocket",
-              "description": "第5章 WebSocket",
-              "source": "@site/docs/Web开发进阶/第05章 WebSocket.md",
-              "sourceDirName": "Web开发进阶",
-              "slug": "/Web开发进阶/第05章 WebSocket",
-              "permalink": "/docs/Web开发进阶/第05章 WebSocket",
+              "unversionedId": "homework/作业04:SSL",
+              "id": "homework/作业04:SSL",
+              "title": "作业04:SSL",
+              "description": "作业四：SSL",
+              "source": "@site/docs/homework/4-作业04:SSL.md",
+              "sourceDirName": "homework",
+              "slug": "/homework/作业04:SSL",
+              "permalink": "/docs/homework/作业04:SSL",
               "draft": false,
-              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/Web开发进阶/第05章 WebSocket.md",
+              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/homework/4-作业04:SSL.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 5,
               "frontMatter": {
                 "sidebar_position": 5
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "homeworkSidebar",
               "previous": {
-                "title": "第04章 Kafka",
-                "permalink": "/docs/Web开发进阶/第04章 Kafka"
+                "title": "作业03:Websocket与线程安全",
+                "permalink": "/docs/homework/作业03:Websocket与线程安全"
               },
               "next": {
-                "title": "第06章 多线程",
-                "permalink": "/docs/Web开发进阶/第06章 多线程"
+                "title": "作业05:Redis缓存",
+                "permalink": "/docs/homework/作业05:Redis缓存"
               }
             },
             {
-              "unversionedId": "Web开发进阶/第06章 多线程",
-              "id": "Web开发进阶/第06章 多线程",
-              "title": "第06章 多线程",
-              "description": "第6章 多线程",
-              "source": "@site/docs/Web开发进阶/第06章 多线程.md",
-              "sourceDirName": "Web开发进阶",
-              "slug": "/Web开发进阶/第06章 多线程",
-              "permalink": "/docs/Web开发进阶/第06章 多线程",
+              "unversionedId": "homework/作业05:Redis缓存",
+              "id": "homework/作业05:Redis缓存",
+              "title": "作业05:Redis缓存",
+              "description": "作业五 Redis缓存",
+              "source": "@site/docs/homework/5-作业05:Redis缓存.md",
+              "sourceDirName": "homework",
+              "slug": "/homework/作业05:Redis缓存",
+              "permalink": "/docs/homework/作业05:Redis缓存",
               "draft": false,
-              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/Web开发进阶/第06章 多线程.md",
+              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/homework/5-作业05:Redis缓存.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 6,
               "frontMatter": {
                 "sidebar_position": 6
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "homeworkSidebar",
               "previous": {
-                "title": "第05章 WebSocket",
-                "permalink": "/docs/Web开发进阶/第05章 WebSocket"
+                "title": "作业04:SSL",
+                "permalink": "/docs/homework/作业04:SSL"
               },
               "next": {
-                "title": "第07章 安全",
-                "permalink": "/docs/Web开发进阶/第07章 安全"
+                "title": "作业06:全文搜索",
+                "permalink": "/docs/homework/作业06:全文搜索"
               }
             },
             {
-              "unversionedId": "Web开发进阶/第07章 安全",
-              "id": "Web开发进阶/第07章 安全",
-              "title": "第07章 安全",
-              "description": "第7章 安全",
-              "source": "@site/docs/Web开发进阶/第07章 安全.md",
-              "sourceDirName": "Web开发进阶",
-              "slug": "/Web开发进阶/第07章 安全",
-              "permalink": "/docs/Web开发进阶/第07章 安全",
+              "unversionedId": "homework/作业06:全文搜索",
+              "id": "homework/作业06:全文搜索",
+              "title": "作业06:全文搜索",
+              "description": "作业六：全文搜索",
+              "source": "@site/docs/homework/6-作业06:全文搜索.md",
+              "sourceDirName": "homework",
+              "slug": "/homework/作业06:全文搜索",
+              "permalink": "/docs/homework/作业06:全文搜索",
               "draft": false,
-              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/Web开发进阶/第07章 安全.md",
+              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/homework/6-作业06:全文搜索.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 7,
               "frontMatter": {
                 "sidebar_position": 7
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "homeworkSidebar",
               "previous": {
-                "title": "第06章 多线程",
-                "permalink": "/docs/Web开发进阶/第06章 多线程"
+                "title": "作业05:Redis缓存",
+                "permalink": "/docs/homework/作业05:Redis缓存"
               },
               "next": {
-                "title": "第08章 jwt与SSO",
-                "permalink": "/docs/Web开发进阶/第08章 jwt与SSO"
+                "title": "作业07:微服务",
+                "permalink": "/docs/homework/作业07:微服务"
               }
             },
             {
-              "unversionedId": "Web开发进阶/第08章 jwt与SSO",
-              "id": "Web开发进阶/第08章 jwt与SSO",
-              "title": "第08章 jwt与SSO",
-              "description": "第8章 jwt与SSO",
-              "source": "@site/docs/Web开发进阶/第08章 jwt与SSO.md",
-              "sourceDirName": "Web开发进阶",
-              "slug": "/Web开发进阶/第08章 jwt与SSO",
-              "permalink": "/docs/Web开发进阶/第08章 jwt与SSO",
+              "unversionedId": "homework/作业07:微服务",
+              "id": "homework/作业07:微服务",
+              "title": "作业07:微服务",
+              "description": "作业7 微服务",
+              "source": "@site/docs/homework/7-作业07:微服务.md",
+              "sourceDirName": "homework",
+              "slug": "/homework/作业07:微服务",
+              "permalink": "/docs/homework/作业07:微服务",
               "draft": false,
-              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/Web开发进阶/第08章 jwt与SSO.md",
+              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/homework/7-作业07:微服务.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 8,
               "frontMatter": {
                 "sidebar_position": 8
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "homeworkSidebar",
               "previous": {
-                "title": "第07章 安全",
-                "permalink": "/docs/Web开发进阶/第07章 安全"
+                "title": "作业06:全文搜索",
+                "permalink": "/docs/homework/作业06:全文搜索"
               },
               "next": {
-                "title": "第09章 缓存和Redis",
-                "permalink": "/docs/Web开发进阶/第09章 缓存和Redis"
+                "title": "作业08:课堂签到小测",
+                "permalink": "/docs/homework/作业08:课堂签到小测"
               }
             },
             {
-              "unversionedId": "Web开发进阶/第09章 缓存和Redis",
-              "id": "Web开发进阶/第09章 缓存和Redis",
-              "title": "第09章 缓存和Redis",
-              "description": "第9章 缓存和Redis",
-              "source": "@site/docs/Web开发进阶/第09章 缓存和Redis.md",
-              "sourceDirName": "Web开发进阶",
-              "slug": "/Web开发进阶/第09章 缓存和Redis",
-              "permalink": "/docs/Web开发进阶/第09章 缓存和Redis",
+              "unversionedId": "homework/作业08:课堂签到小测",
+              "id": "homework/作业08:课堂签到小测",
+              "title": "作业08:课堂签到小测",
+              "description": "第一题：",
+              "source": "@site/docs/homework/8-作业08:课堂签到小测.md",
+              "sourceDirName": "homework",
+              "slug": "/homework/作业08:课堂签到小测",
+              "permalink": "/docs/homework/作业08:课堂签到小测",
               "draft": false,
-              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/Web开发进阶/第09章 缓存和Redis.md",
+              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/homework/8-作业08:课堂签到小测.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 9,
               "frontMatter": {
                 "sidebar_position": 9
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "homeworkSidebar",
               "previous": {
-                "title": "第08章 jwt与SSO",
-                "permalink": "/docs/Web开发进阶/第08章 jwt与SSO"
+                "title": "作业07:微服务",
+                "permalink": "/docs/homework/作业07:微服务"
               },
               "next": {
-                "title": "第10章 全文搜索",
-                "permalink": "/docs/Web开发进阶/第10章 全文搜索"
+                "title": "作业09:数据库",
+                "permalink": "/docs/homework/作业09:数据库"
               }
             },
             {
-              "unversionedId": "Web开发进阶/第10章 全文搜索",
-              "id": "Web开发进阶/第10章 全文搜索",
-              "title": "第10章 全文搜索",
-              "description": "第10章 全文搜索",
-              "source": "@site/docs/Web开发进阶/第10章 全文搜索.md",
-              "sourceDirName": "Web开发进阶",
-              "slug": "/Web开发进阶/第10章 全文搜索",
-              "permalink": "/docs/Web开发进阶/第10章 全文搜索",
+              "unversionedId": "homework/作业09:数据库",
+              "id": "homework/作业09:数据库",
+              "title": "作业09:数据库",
+              "description": "问题一：在聚簇索引上执行查询，尤其是范围查询时，它的执行效率会非常高。请问， 为什么聚簇索引的效率高？",
+              "source": "@site/docs/homework/9-作业09:数据库.md",
+              "sourceDirName": "homework",
+              "slug": "/homework/作业09:数据库",
+              "permalink": "/docs/homework/作业09:数据库",
               "draft": false,
-              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/Web开发进阶/第10章 全文搜索.md",
+              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/homework/9-作业09:数据库.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 10,
               "frontMatter": {
                 "sidebar_position": 10
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "homeworkSidebar",
               "previous": {
-                "title": "第09章 缓存和Redis",
-                "permalink": "/docs/Web开发进阶/第09章 缓存和Redis"
+                "title": "作业08:课堂签到小测",
+                "permalink": "/docs/homework/作业08:课堂签到小测"
               },
               "next": {
-                "title": "第11章 Web服务",
-                "permalink": "/docs/Web开发进阶/第11章 Web服务"
+                "title": "作业10:数据库备份",
+                "permalink": "/docs/homework/作业10:数据库备份"
               }
             },
             {
-              "unversionedId": "Web开发进阶/第11章 Web服务",
-              "id": "Web开发进阶/第11章 Web服务",
-              "title": "第11章 Web服务",
-              "description": "第11章 Web服务",
-              "source": "@site/docs/Web开发进阶/第11章 Web服务.md",
-              "sourceDirName": "Web开发进阶",
-              "slug": "/Web开发进阶/第11章 Web服务",
-              "permalink": "/docs/Web开发进阶/第11章 Web服务",
+              "unversionedId": "homework/作业10:数据库备份",
+              "id": "homework/作业10:数据库备份",
+              "title": "作业10:数据库备份",
+              "description": "作业十：数据库备份",
+              "source": "@site/docs/homework/10-作业10:数据库备份.md",
+              "sourceDirName": "homework",
+              "slug": "/homework/作业10:数据库备份",
+              "permalink": "/docs/homework/作业10:数据库备份",
               "draft": false,
-              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/Web开发进阶/第11章 Web服务.md",
+              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/homework/10-作业10:数据库备份.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 11,
               "frontMatter": {
                 "sidebar_position": 11
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "homeworkSidebar",
               "previous": {
-                "title": "第10章 全文搜索",
-                "permalink": "/docs/Web开发进阶/第10章 全文搜索"
+                "title": "作业09:数据库",
+                "permalink": "/docs/homework/作业09:数据库"
               },
               "next": {
-                "title": "第12章 微服务",
-                "permalink": "/docs/Web开发进阶/第12章 微服务"
+                "title": "作业11:MongoDB和Neo4j数据库",
+                "permalink": "/docs/homework/作业11:MongoDB和Neo4j数据库"
               }
             },
             {
-              "unversionedId": "Web开发进阶/第12章 微服务",
-              "id": "Web开发进阶/第12章 微服务",
-              "title": "第12章 微服务",
-              "description": "第12章 微服务",
-              "source": "@site/docs/Web开发进阶/第12章 微服务.md",
-              "sourceDirName": "Web开发进阶",
-              "slug": "/Web开发进阶/第12章 微服务",
-              "permalink": "/docs/Web开发进阶/第12章 微服务",
+              "unversionedId": "homework/作业11:MongoDB和Neo4j数据库",
+              "id": "homework/作业11:MongoDB和Neo4j数据库",
+              "title": "作业11:MongoDB和Neo4j数据库",
+              "description": "作业十一：MongoDB和Neo4j数据库",
+              "source": "@site/docs/homework/11-作业11:MongoDB和Neo4j数据库.md",
+              "sourceDirName": "homework",
+              "slug": "/homework/作业11:MongoDB和Neo4j数据库",
+              "permalink": "/docs/homework/作业11:MongoDB和Neo4j数据库",
               "draft": false,
-              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/Web开发进阶/第12章 微服务.md",
+              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/homework/11-作业11:MongoDB和Neo4j数据库.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 12,
               "frontMatter": {
                 "sidebar_position": 12
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "homeworkSidebar",
               "previous": {
-                "title": "第11章 Web服务",
-                "permalink": "/docs/Web开发进阶/第11章 Web服务"
+                "title": "作业10:数据库备份",
+                "permalink": "/docs/homework/作业10:数据库备份"
               },
               "next": {
-                "title": "模块二 数据库部分",
-                "permalink": "/docs/category/模块二-数据库部分"
+                "title": "作业12:TSDB & Cluster",
+                "permalink": "/docs/homework/作业12:TSDB & Cluster"
               }
             },
             {
-              "unversionedId": "数据库部分/第13-14章 范式",
-              "id": "数据库部分/第13-14章 范式",
-              "title": "第13-14章 范式",
-              "description": "第13-14章 范式",
-              "source": "@site/docs/数据库部分/第13-14章 范式.md",
-              "sourceDirName": "数据库部分",
-              "slug": "/数据库部分/第13-14章 范式",
-              "permalink": "/docs/数据库部分/第13-14章 范式",
+              "unversionedId": "homework/作业12:TSDB & Cluster",
+              "id": "homework/作业12:TSDB & Cluster",
+              "title": "作业12:TSDB & Cluster",
+              "description": "作业12 TSDB & Cluster",
+              "source": "@site/docs/homework/12-作业12:TSDB & Cluster.md",
+              "sourceDirName": "homework",
+              "slug": "/homework/作业12:TSDB & Cluster",
+              "permalink": "/docs/homework/作业12:TSDB & Cluster",
               "draft": false,
-              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/数据库部分/第13-14章 范式.md",
+              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/homework/12-作业12:TSDB & Cluster.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 13,
               "frontMatter": {
                 "sidebar_position": 13
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "homeworkSidebar",
+              "previous": {
+                "title": "作业11:MongoDB和Neo4j数据库",
+                "permalink": "/docs/homework/作业11:MongoDB和Neo4j数据库"
+              }
+            },
+            {
+              "unversionedId": "review/intro",
+              "id": "review/intro",
+              "title": "应用系统体系架构",
+              "description": "本部分是应用系统体系架构的笔记，如果需要下载，请点击：",
+              "source": "@site/docs/review/intro.md",
+              "sourceDirName": "review",
+              "slug": "/review/intro",
+              "permalink": "/docs/review/intro",
+              "draft": false,
+              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/review/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "reviewSidebar",
+              "next": {
+                "title": "模块一 Web开发进阶",
+                "permalink": "/docs/category/模块一-web开发进阶"
+              }
+            },
+            {
+              "unversionedId": "review/Web开发进阶/第01章 实例",
+              "id": "review/Web开发进阶/第01章 实例",
+              "title": "第01章 实例",
+              "description": "第1章 实例",
+              "source": "@site/docs/review/Web开发进阶/第01章 实例.md",
+              "sourceDirName": "review/Web开发进阶",
+              "slug": "/review/Web开发进阶/第01章 实例",
+              "permalink": "/docs/review/Web开发进阶/第01章 实例",
+              "draft": false,
+              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/review/Web开发进阶/第01章 实例.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "reviewSidebar",
+              "previous": {
+                "title": "模块一 Web开发进阶",
+                "permalink": "/docs/category/模块一-web开发进阶"
+              },
+              "next": {
+                "title": "第02章 事务",
+                "permalink": "/docs/review/Web开发进阶/第02章 事务"
+              }
+            },
+            {
+              "unversionedId": "review/Web开发进阶/第02章 事务",
+              "id": "review/Web开发进阶/第02章 事务",
+              "title": "第02章 事务",
+              "description": "第2章 事务",
+              "source": "@site/docs/review/Web开发进阶/第02章 事务.md",
+              "sourceDirName": "review/Web开发进阶",
+              "slug": "/review/Web开发进阶/第02章 事务",
+              "permalink": "/docs/review/Web开发进阶/第02章 事务",
+              "draft": false,
+              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/review/Web开发进阶/第02章 事务.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "reviewSidebar",
+              "previous": {
+                "title": "第01章 实例",
+                "permalink": "/docs/review/Web开发进阶/第01章 实例"
+              },
+              "next": {
+                "title": "第03章 Message",
+                "permalink": "/docs/review/Web开发进阶/第03章 Message"
+              }
+            },
+            {
+              "unversionedId": "review/Web开发进阶/第03章 Message",
+              "id": "review/Web开发进阶/第03章 Message",
+              "title": "第03章 Message",
+              "description": "第3章 Message",
+              "source": "@site/docs/review/Web开发进阶/第03章 Message.md",
+              "sourceDirName": "review/Web开发进阶",
+              "slug": "/review/Web开发进阶/第03章 Message",
+              "permalink": "/docs/review/Web开发进阶/第03章 Message",
+              "draft": false,
+              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/review/Web开发进阶/第03章 Message.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "reviewSidebar",
+              "previous": {
+                "title": "第02章 事务",
+                "permalink": "/docs/review/Web开发进阶/第02章 事务"
+              },
+              "next": {
+                "title": "第04章 Kafka",
+                "permalink": "/docs/review/Web开发进阶/第04章 Kafka"
+              }
+            },
+            {
+              "unversionedId": "review/Web开发进阶/第04章 Kafka",
+              "id": "review/Web开发进阶/第04章 Kafka",
+              "title": "第04章 Kafka",
+              "description": "第4章 Kafka",
+              "source": "@site/docs/review/Web开发进阶/第04章 Kafka.md",
+              "sourceDirName": "review/Web开发进阶",
+              "slug": "/review/Web开发进阶/第04章 Kafka",
+              "permalink": "/docs/review/Web开发进阶/第04章 Kafka",
+              "draft": false,
+              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/review/Web开发进阶/第04章 Kafka.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "reviewSidebar",
+              "previous": {
+                "title": "第03章 Message",
+                "permalink": "/docs/review/Web开发进阶/第03章 Message"
+              },
+              "next": {
+                "title": "第05章 WebSocket",
+                "permalink": "/docs/review/Web开发进阶/第05章 WebSocket"
+              }
+            },
+            {
+              "unversionedId": "review/Web开发进阶/第05章 WebSocket",
+              "id": "review/Web开发进阶/第05章 WebSocket",
+              "title": "第05章 WebSocket",
+              "description": "第5章 WebSocket",
+              "source": "@site/docs/review/Web开发进阶/第05章 WebSocket.md",
+              "sourceDirName": "review/Web开发进阶",
+              "slug": "/review/Web开发进阶/第05章 WebSocket",
+              "permalink": "/docs/review/Web开发进阶/第05章 WebSocket",
+              "draft": false,
+              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/review/Web开发进阶/第05章 WebSocket.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "reviewSidebar",
+              "previous": {
+                "title": "第04章 Kafka",
+                "permalink": "/docs/review/Web开发进阶/第04章 Kafka"
+              },
+              "next": {
+                "title": "第06章 多线程",
+                "permalink": "/docs/review/Web开发进阶/第06章 多线程"
+              }
+            },
+            {
+              "unversionedId": "review/Web开发进阶/第06章 多线程",
+              "id": "review/Web开发进阶/第06章 多线程",
+              "title": "第06章 多线程",
+              "description": "第6章 多线程",
+              "source": "@site/docs/review/Web开发进阶/第06章 多线程.md",
+              "sourceDirName": "review/Web开发进阶",
+              "slug": "/review/Web开发进阶/第06章 多线程",
+              "permalink": "/docs/review/Web开发进阶/第06章 多线程",
+              "draft": false,
+              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/review/Web开发进阶/第06章 多线程.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "reviewSidebar",
+              "previous": {
+                "title": "第05章 WebSocket",
+                "permalink": "/docs/review/Web开发进阶/第05章 WebSocket"
+              },
+              "next": {
+                "title": "第07章 安全",
+                "permalink": "/docs/review/Web开发进阶/第07章 安全"
+              }
+            },
+            {
+              "unversionedId": "review/Web开发进阶/第07章 安全",
+              "id": "review/Web开发进阶/第07章 安全",
+              "title": "第07章 安全",
+              "description": "第7章 安全",
+              "source": "@site/docs/review/Web开发进阶/第07章 安全.md",
+              "sourceDirName": "review/Web开发进阶",
+              "slug": "/review/Web开发进阶/第07章 安全",
+              "permalink": "/docs/review/Web开发进阶/第07章 安全",
+              "draft": false,
+              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/review/Web开发进阶/第07章 安全.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "reviewSidebar",
+              "previous": {
+                "title": "第06章 多线程",
+                "permalink": "/docs/review/Web开发进阶/第06章 多线程"
+              },
+              "next": {
+                "title": "第08章 jwt与SSO",
+                "permalink": "/docs/review/Web开发进阶/第08章 jwt与SSO"
+              }
+            },
+            {
+              "unversionedId": "review/Web开发进阶/第08章 jwt与SSO",
+              "id": "review/Web开发进阶/第08章 jwt与SSO",
+              "title": "第08章 jwt与SSO",
+              "description": "第8章 jwt与SSO",
+              "source": "@site/docs/review/Web开发进阶/第08章 jwt与SSO.md",
+              "sourceDirName": "review/Web开发进阶",
+              "slug": "/review/Web开发进阶/第08章 jwt与SSO",
+              "permalink": "/docs/review/Web开发进阶/第08章 jwt与SSO",
+              "draft": false,
+              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/review/Web开发进阶/第08章 jwt与SSO.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8
+              },
+              "sidebar": "reviewSidebar",
+              "previous": {
+                "title": "第07章 安全",
+                "permalink": "/docs/review/Web开发进阶/第07章 安全"
+              },
+              "next": {
+                "title": "第09章 缓存和Redis",
+                "permalink": "/docs/review/Web开发进阶/第09章 缓存和Redis"
+              }
+            },
+            {
+              "unversionedId": "review/Web开发进阶/第09章 缓存和Redis",
+              "id": "review/Web开发进阶/第09章 缓存和Redis",
+              "title": "第09章 缓存和Redis",
+              "description": "第9章 缓存和Redis",
+              "source": "@site/docs/review/Web开发进阶/第09章 缓存和Redis.md",
+              "sourceDirName": "review/Web开发进阶",
+              "slug": "/review/Web开发进阶/第09章 缓存和Redis",
+              "permalink": "/docs/review/Web开发进阶/第09章 缓存和Redis",
+              "draft": false,
+              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/review/Web开发进阶/第09章 缓存和Redis.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_position": 9
+              },
+              "sidebar": "reviewSidebar",
+              "previous": {
+                "title": "第08章 jwt与SSO",
+                "permalink": "/docs/review/Web开发进阶/第08章 jwt与SSO"
+              },
+              "next": {
+                "title": "第10章 全文搜索",
+                "permalink": "/docs/review/Web开发进阶/第10章 全文搜索"
+              }
+            },
+            {
+              "unversionedId": "review/Web开发进阶/第10章 全文搜索",
+              "id": "review/Web开发进阶/第10章 全文搜索",
+              "title": "第10章 全文搜索",
+              "description": "第10章 全文搜索",
+              "source": "@site/docs/review/Web开发进阶/第10章 全文搜索.md",
+              "sourceDirName": "review/Web开发进阶",
+              "slug": "/review/Web开发进阶/第10章 全文搜索",
+              "permalink": "/docs/review/Web开发进阶/第10章 全文搜索",
+              "draft": false,
+              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/review/Web开发进阶/第10章 全文搜索.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10
+              },
+              "sidebar": "reviewSidebar",
+              "previous": {
+                "title": "第09章 缓存和Redis",
+                "permalink": "/docs/review/Web开发进阶/第09章 缓存和Redis"
+              },
+              "next": {
+                "title": "第11章 Web服务",
+                "permalink": "/docs/review/Web开发进阶/第11章 Web服务"
+              }
+            },
+            {
+              "unversionedId": "review/Web开发进阶/第11章 Web服务",
+              "id": "review/Web开发进阶/第11章 Web服务",
+              "title": "第11章 Web服务",
+              "description": "第11章 Web服务",
+              "source": "@site/docs/review/Web开发进阶/第11章 Web服务.md",
+              "sourceDirName": "review/Web开发进阶",
+              "slug": "/review/Web开发进阶/第11章 Web服务",
+              "permalink": "/docs/review/Web开发进阶/第11章 Web服务",
+              "draft": false,
+              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/review/Web开发进阶/第11章 Web服务.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 11,
+              "frontMatter": {
+                "sidebar_position": 11
+              },
+              "sidebar": "reviewSidebar",
+              "previous": {
+                "title": "第10章 全文搜索",
+                "permalink": "/docs/review/Web开发进阶/第10章 全文搜索"
+              },
+              "next": {
+                "title": "第12章 微服务",
+                "permalink": "/docs/review/Web开发进阶/第12章 微服务"
+              }
+            },
+            {
+              "unversionedId": "review/Web开发进阶/第12章 微服务",
+              "id": "review/Web开发进阶/第12章 微服务",
+              "title": "第12章 微服务",
+              "description": "第12章 微服务",
+              "source": "@site/docs/review/Web开发进阶/第12章 微服务.md",
+              "sourceDirName": "review/Web开发进阶",
+              "slug": "/review/Web开发进阶/第12章 微服务",
+              "permalink": "/docs/review/Web开发进阶/第12章 微服务",
+              "draft": false,
+              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/review/Web开发进阶/第12章 微服务.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 12,
+              "frontMatter": {
+                "sidebar_position": 12
+              },
+              "sidebar": "reviewSidebar",
+              "previous": {
+                "title": "第11章 Web服务",
+                "permalink": "/docs/review/Web开发进阶/第11章 Web服务"
+              },
+              "next": {
+                "title": "模块二 数据库部分",
+                "permalink": "/docs/category/模块二-数据库部分"
+              }
+            },
+            {
+              "unversionedId": "review/数据库部分/第13-14章 范式",
+              "id": "review/数据库部分/第13-14章 范式",
+              "title": "第13-14章 范式",
+              "description": "第13-14章 范式",
+              "source": "@site/docs/review/数据库部分/第13-14章 范式.md",
+              "sourceDirName": "review/数据库部分",
+              "slug": "/review/数据库部分/第13-14章 范式",
+              "permalink": "/docs/review/数据库部分/第13-14章 范式",
+              "draft": false,
+              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/review/数据库部分/第13-14章 范式.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 13,
+              "frontMatter": {
+                "sidebar_position": 13
+              },
+              "sidebar": "reviewSidebar",
               "previous": {
                 "title": "模块二 数据库部分",
                 "permalink": "/docs/category/模块二-数据库部分"
               },
               "next": {
                 "title": "第15章 MySQL优化（一）",
-                "permalink": "/docs/数据库部分/第15章 MySQL优化（一）"
+                "permalink": "/docs/review/数据库部分/第15章 MySQL优化（一）"
               }
             },
             {
-              "unversionedId": "数据库部分/第15章 MySQL优化（一）",
-              "id": "数据库部分/第15章 MySQL优化（一）",
+              "unversionedId": "review/数据库部分/第15章 MySQL优化（一）",
+              "id": "review/数据库部分/第15章 MySQL优化（一）",
               "title": "第15章 MySQL优化（一）",
               "description": "第15章 MySQL优化（一）",
-              "source": "@site/docs/数据库部分/第15章 MySQL优化（一）.md",
-              "sourceDirName": "数据库部分",
-              "slug": "/数据库部分/第15章 MySQL优化（一）",
-              "permalink": "/docs/数据库部分/第15章 MySQL优化（一）",
+              "source": "@site/docs/review/数据库部分/第15章 MySQL优化（一）.md",
+              "sourceDirName": "review/数据库部分",
+              "slug": "/review/数据库部分/第15章 MySQL优化（一）",
+              "permalink": "/docs/review/数据库部分/第15章 MySQL优化（一）",
               "draft": false,
-              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/数据库部分/第15章 MySQL优化（一）.md",
+              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/review/数据库部分/第15章 MySQL优化（一）.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 14,
               "frontMatter": {
                 "sidebar_position": 14
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "reviewSidebar",
               "previous": {
                 "title": "第13-14章 范式",
-                "permalink": "/docs/数据库部分/第13-14章 范式"
+                "permalink": "/docs/review/数据库部分/第13-14章 范式"
               },
               "next": {
                 "title": "第16章 MySQL优化（二）",
-                "permalink": "/docs/数据库部分/第16章 MySQL优化（二）"
+                "permalink": "/docs/review/数据库部分/第16章 MySQL优化（二）"
               }
             },
             {
-              "unversionedId": "数据库部分/第16章 MySQL优化（二）",
-              "id": "数据库部分/第16章 MySQL优化（二）",
+              "unversionedId": "review/数据库部分/第16章 MySQL优化（二）",
+              "id": "review/数据库部分/第16章 MySQL优化（二）",
               "title": "第16章 MySQL优化（二）",
               "description": "第16章 MySQL优化（二）",
-              "source": "@site/docs/数据库部分/第16章 MySQL优化（二）.md",
-              "sourceDirName": "数据库部分",
-              "slug": "/数据库部分/第16章 MySQL优化（二）",
-              "permalink": "/docs/数据库部分/第16章 MySQL优化（二）",
+              "source": "@site/docs/review/数据库部分/第16章 MySQL优化（二）.md",
+              "sourceDirName": "review/数据库部分",
+              "slug": "/review/数据库部分/第16章 MySQL优化（二）",
+              "permalink": "/docs/review/数据库部分/第16章 MySQL优化（二）",
               "draft": false,
-              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/数据库部分/第16章 MySQL优化（二）.md",
+              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/review/数据库部分/第16章 MySQL优化（二）.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 15,
               "frontMatter": {
                 "sidebar_position": 15
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "reviewSidebar",
               "previous": {
                 "title": "第15章 MySQL优化（一）",
-                "permalink": "/docs/数据库部分/第15章 MySQL优化（一）"
+                "permalink": "/docs/review/数据库部分/第15章 MySQL优化（一）"
               },
               "next": {
                 "title": "第17章 MySQL备份和恢复",
-                "permalink": "/docs/数据库部分/第17章 MySQL备份和恢复"
+                "permalink": "/docs/review/数据库部分/第17章 MySQL备份和恢复"
               }
             },
             {
-              "unversionedId": "数据库部分/第17章 MySQL备份和恢复",
-              "id": "数据库部分/第17章 MySQL备份和恢复",
+              "unversionedId": "review/数据库部分/第17章 MySQL备份和恢复",
+              "id": "review/数据库部分/第17章 MySQL备份和恢复",
               "title": "第17章 MySQL备份和恢复",
               "description": "第17章 MySQL备份和恢复",
-              "source": "@site/docs/数据库部分/第17章 MySQL备份和恢复.md",
-              "sourceDirName": "数据库部分",
-              "slug": "/数据库部分/第17章 MySQL备份和恢复",
-              "permalink": "/docs/数据库部分/第17章 MySQL备份和恢复",
+              "source": "@site/docs/review/数据库部分/第17章 MySQL备份和恢复.md",
+              "sourceDirName": "review/数据库部分",
+              "slug": "/review/数据库部分/第17章 MySQL备份和恢复",
+              "permalink": "/docs/review/数据库部分/第17章 MySQL备份和恢复",
               "draft": false,
-              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/数据库部分/第17章 MySQL备份和恢复.md",
+              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/review/数据库部分/第17章 MySQL备份和恢复.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 16,
               "frontMatter": {
                 "sidebar_position": 16
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "reviewSidebar",
               "previous": {
                 "title": "第16章 MySQL优化（二）",
-                "permalink": "/docs/数据库部分/第16章 MySQL优化（二）"
+                "permalink": "/docs/review/数据库部分/第16章 MySQL优化（二）"
               },
               "next": {
                 "title": "第18章 MySQL分区",
-                "permalink": "/docs/数据库部分/第18章 MySQL分区"
+                "permalink": "/docs/review/数据库部分/第18章 MySQL分区"
               }
             },
             {
-              "unversionedId": "数据库部分/第18章 MySQL分区",
-              "id": "数据库部分/第18章 MySQL分区",
+              "unversionedId": "review/数据库部分/第18章 MySQL分区",
+              "id": "review/数据库部分/第18章 MySQL分区",
               "title": "第18章 MySQL分区",
               "description": "第18章 MySQL分区",
-              "source": "@site/docs/数据库部分/第18章 MySQL分区.md",
-              "sourceDirName": "数据库部分",
-              "slug": "/数据库部分/第18章 MySQL分区",
-              "permalink": "/docs/数据库部分/第18章 MySQL分区",
+              "source": "@site/docs/review/数据库部分/第18章 MySQL分区.md",
+              "sourceDirName": "review/数据库部分",
+              "slug": "/review/数据库部分/第18章 MySQL分区",
+              "permalink": "/docs/review/数据库部分/第18章 MySQL分区",
               "draft": false,
-              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/数据库部分/第18章 MySQL分区.md",
+              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/review/数据库部分/第18章 MySQL分区.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 17,
               "frontMatter": {
                 "sidebar_position": 17
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "reviewSidebar",
               "previous": {
                 "title": "第17章 MySQL备份和恢复",
-                "permalink": "/docs/数据库部分/第17章 MySQL备份和恢复"
+                "permalink": "/docs/review/数据库部分/第17章 MySQL备份和恢复"
               },
               "next": {
                 "title": "第19章 MongoDB",
-                "permalink": "/docs/数据库部分/第19章 MongoDB"
+                "permalink": "/docs/review/数据库部分/第19章 MongoDB"
               }
             },
             {
-              "unversionedId": "数据库部分/第19章 MongoDB",
-              "id": "数据库部分/第19章 MongoDB",
+              "unversionedId": "review/数据库部分/第19章 MongoDB",
+              "id": "review/数据库部分/第19章 MongoDB",
               "title": "第19章 MongoDB",
               "description": "第19章 MongoDB",
-              "source": "@site/docs/数据库部分/第19章 MongoDB.md",
-              "sourceDirName": "数据库部分",
-              "slug": "/数据库部分/第19章 MongoDB",
-              "permalink": "/docs/数据库部分/第19章 MongoDB",
+              "source": "@site/docs/review/数据库部分/第19章 MongoDB.md",
+              "sourceDirName": "review/数据库部分",
+              "slug": "/review/数据库部分/第19章 MongoDB",
+              "permalink": "/docs/review/数据库部分/第19章 MongoDB",
               "draft": false,
-              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/数据库部分/第19章 MongoDB.md",
+              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/review/数据库部分/第19章 MongoDB.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 18,
               "frontMatter": {
                 "sidebar_position": 18
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "reviewSidebar",
               "previous": {
                 "title": "第18章 MySQL分区",
-                "permalink": "/docs/数据库部分/第18章 MySQL分区"
+                "permalink": "/docs/review/数据库部分/第18章 MySQL分区"
               },
               "next": {
                 "title": "第20章 图数据库",
-                "permalink": "/docs/数据库部分/第20章 图数据库"
+                "permalink": "/docs/review/数据库部分/第20章 图数据库"
               }
             },
             {
-              "unversionedId": "数据库部分/第20章 图数据库",
-              "id": "数据库部分/第20章 图数据库",
+              "unversionedId": "review/数据库部分/第20章 图数据库",
+              "id": "review/数据库部分/第20章 图数据库",
               "title": "第20章 图数据库",
               "description": "第20章 图数据库",
-              "source": "@site/docs/数据库部分/第20章 图数据库.md",
-              "sourceDirName": "数据库部分",
-              "slug": "/数据库部分/第20章 图数据库",
-              "permalink": "/docs/数据库部分/第20章 图数据库",
+              "source": "@site/docs/review/数据库部分/第20章 图数据库.md",
+              "sourceDirName": "review/数据库部分",
+              "slug": "/review/数据库部分/第20章 图数据库",
+              "permalink": "/docs/review/数据库部分/第20章 图数据库",
               "draft": false,
-              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/数据库部分/第20章 图数据库.md",
+              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/review/数据库部分/第20章 图数据库.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 19,
               "frontMatter": {
                 "sidebar_position": 19
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "reviewSidebar",
               "previous": {
                 "title": "第19章 MongoDB",
-                "permalink": "/docs/数据库部分/第19章 MongoDB"
+                "permalink": "/docs/review/数据库部分/第19章 MongoDB"
               },
               "next": {
                 "title": "第21章 时序数据库",
-                "permalink": "/docs/数据库部分/第21章 时序数据库"
+                "permalink": "/docs/review/数据库部分/第21章 时序数据库"
               }
             },
             {
-              "unversionedId": "数据库部分/第21章 时序数据库",
-              "id": "数据库部分/第21章 时序数据库",
+              "unversionedId": "review/数据库部分/第21章 时序数据库",
+              "id": "review/数据库部分/第21章 时序数据库",
               "title": "第21章 时序数据库",
               "description": "第21章 时序数据库",
-              "source": "@site/docs/数据库部分/第21章 时序数据库.md",
-              "sourceDirName": "数据库部分",
-              "slug": "/数据库部分/第21章 时序数据库",
-              "permalink": "/docs/数据库部分/第21章 时序数据库",
+              "source": "@site/docs/review/数据库部分/第21章 时序数据库.md",
+              "sourceDirName": "review/数据库部分",
+              "slug": "/review/数据库部分/第21章 时序数据库",
+              "permalink": "/docs/review/数据库部分/第21章 时序数据库",
               "draft": false,
-              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/数据库部分/第21章 时序数据库.md",
+              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/review/数据库部分/第21章 时序数据库.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 20,
               "frontMatter": {
                 "sidebar_position": 20
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "reviewSidebar",
               "previous": {
                 "title": "第20章 图数据库",
-                "permalink": "/docs/数据库部分/第20章 图数据库"
+                "permalink": "/docs/review/数据库部分/第20章 图数据库"
               },
               "next": {
                 "title": "第22章 数据湖",
-                "permalink": "/docs/数据库部分/第22章 数据湖"
+                "permalink": "/docs/review/数据库部分/第22章 数据湖"
               }
             },
             {
-              "unversionedId": "数据库部分/第22章 数据湖",
-              "id": "数据库部分/第22章 数据湖",
+              "unversionedId": "review/数据库部分/第22章 数据湖",
+              "id": "review/数据库部分/第22章 数据湖",
               "title": "第22章 数据湖",
               "description": "第22章 数据湖",
-              "source": "@site/docs/数据库部分/第22章 数据湖.md",
-              "sourceDirName": "数据库部分",
-              "slug": "/数据库部分/第22章 数据湖",
-              "permalink": "/docs/数据库部分/第22章 数据湖",
+              "source": "@site/docs/review/数据库部分/第22章 数据湖.md",
+              "sourceDirName": "review/数据库部分",
+              "slug": "/review/数据库部分/第22章 数据湖",
+              "permalink": "/docs/review/数据库部分/第22章 数据湖",
               "draft": false,
-              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/数据库部分/第22章 数据湖.md",
+              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/review/数据库部分/第22章 数据湖.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 21,
               "frontMatter": {
                 "sidebar_position": 21
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "reviewSidebar",
               "previous": {
                 "title": "第21章 时序数据库",
-                "permalink": "/docs/数据库部分/第21章 时序数据库"
+                "permalink": "/docs/review/数据库部分/第21章 时序数据库"
               },
               "next": {
                 "title": "模块三 运维和集群",
@@ -610,62 +953,62 @@
               }
             },
             {
-              "unversionedId": "运维和集群部分/第23章 集群",
-              "id": "运维和集群部分/第23章 集群",
+              "unversionedId": "review/运维和集群部分/第23章 集群",
+              "id": "review/运维和集群部分/第23章 集群",
               "title": "第23章 集群",
               "description": "第23章 集群",
-              "source": "@site/docs/运维和集群部分/第23章 集群.md",
-              "sourceDirName": "运维和集群部分",
-              "slug": "/运维和集群部分/第23章 集群",
-              "permalink": "/docs/运维和集群部分/第23章 集群",
+              "source": "@site/docs/review/运维和集群部分/第23章 集群.md",
+              "sourceDirName": "review/运维和集群部分",
+              "slug": "/review/运维和集群部分/第23章 集群",
+              "permalink": "/docs/review/运维和集群部分/第23章 集群",
               "draft": false,
-              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/运维和集群部分/第23章 集群.md",
+              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/review/运维和集群部分/第23章 集群.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 22,
               "frontMatter": {
                 "sidebar_position": 22
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "reviewSidebar",
               "previous": {
                 "title": "模块三 运维和集群",
                 "permalink": "/docs/category/模块三-运维和集群"
               },
               "next": {
                 "title": "第24章 Hadoop MR",
-                "permalink": "/docs/运维和集群部分/第24章 Hadoop MR"
+                "permalink": "/docs/review/运维和集群部分/第24章 Hadoop MR"
               }
             },
             {
-              "unversionedId": "运维和集群部分/第24章 Hadoop MR",
-              "id": "运维和集群部分/第24章 Hadoop MR",
+              "unversionedId": "review/运维和集群部分/第24章 Hadoop MR",
+              "id": "review/运维和集群部分/第24章 Hadoop MR",
               "title": "第24章 Hadoop MR",
               "description": "第24章 Hadoop MR",
-              "source": "@site/docs/运维和集群部分/第24章 Hadoop MR.md",
-              "sourceDirName": "运维和集群部分",
-              "slug": "/运维和集群部分/第24章 Hadoop MR",
-              "permalink": "/docs/运维和集群部分/第24章 Hadoop MR",
+              "source": "@site/docs/review/运维和集群部分/第24章 Hadoop MR.md",
+              "sourceDirName": "review/运维和集群部分",
+              "slug": "/review/运维和集群部分/第24章 Hadoop MR",
+              "permalink": "/docs/review/运维和集群部分/第24章 Hadoop MR",
               "draft": false,
-              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/运维和集群部分/第24章 Hadoop MR.md",
+              "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/review/运维和集群部分/第24章 Hadoop MR.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 23,
               "frontMatter": {
                 "sidebar_position": 23
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "reviewSidebar",
               "previous": {
                 "title": "第23章 集群",
-                "permalink": "/docs/运维和集群部分/第23章 集群"
+                "permalink": "/docs/review/运维和集群部分/第23章 集群"
               }
             }
           ],
           "drafts": [],
           "sidebars": {
-            "tutorialSidebar": [
+            "reviewSidebar": [
               {
                 "type": "doc",
-                "id": "intro"
+                "id": "review/intro"
               },
               {
                 "type": "category",
@@ -675,51 +1018,51 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "Web开发进阶/第01章 实例"
+                    "id": "review/Web开发进阶/第01章 实例"
                   },
                   {
                     "type": "doc",
-                    "id": "Web开发进阶/第02章 事务"
+                    "id": "review/Web开发进阶/第02章 事务"
                   },
                   {
                     "type": "doc",
-                    "id": "Web开发进阶/第03章 Message"
+                    "id": "review/Web开发进阶/第03章 Message"
                   },
                   {
                     "type": "doc",
-                    "id": "Web开发进阶/第04章 Kafka"
+                    "id": "review/Web开发进阶/第04章 Kafka"
                   },
                   {
                     "type": "doc",
-                    "id": "Web开发进阶/第05章 WebSocket"
+                    "id": "review/Web开发进阶/第05章 WebSocket"
                   },
                   {
                     "type": "doc",
-                    "id": "Web开发进阶/第06章 多线程"
+                    "id": "review/Web开发进阶/第06章 多线程"
                   },
                   {
                     "type": "doc",
-                    "id": "Web开发进阶/第07章 安全"
+                    "id": "review/Web开发进阶/第07章 安全"
                   },
                   {
                     "type": "doc",
-                    "id": "Web开发进阶/第08章 jwt与SSO"
+                    "id": "review/Web开发进阶/第08章 jwt与SSO"
                   },
                   {
                     "type": "doc",
-                    "id": "Web开发进阶/第09章 缓存和Redis"
+                    "id": "review/Web开发进阶/第09章 缓存和Redis"
                   },
                   {
                     "type": "doc",
-                    "id": "Web开发进阶/第10章 全文搜索"
+                    "id": "review/Web开发进阶/第10章 全文搜索"
                   },
                   {
                     "type": "doc",
-                    "id": "Web开发进阶/第11章 Web服务"
+                    "id": "review/Web开发进阶/第11章 Web服务"
                   },
                   {
                     "type": "doc",
-                    "id": "Web开发进阶/第12章 微服务"
+                    "id": "review/Web开发进阶/第12章 微服务"
                   }
                 ],
                 "link": {
@@ -737,39 +1080,39 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "数据库部分/第13-14章 范式"
+                    "id": "review/数据库部分/第13-14章 范式"
                   },
                   {
                     "type": "doc",
-                    "id": "数据库部分/第15章 MySQL优化（一）"
+                    "id": "review/数据库部分/第15章 MySQL优化（一）"
                   },
                   {
                     "type": "doc",
-                    "id": "数据库部分/第16章 MySQL优化（二）"
+                    "id": "review/数据库部分/第16章 MySQL优化（二）"
                   },
                   {
                     "type": "doc",
-                    "id": "数据库部分/第17章 MySQL备份和恢复"
+                    "id": "review/数据库部分/第17章 MySQL备份和恢复"
                   },
                   {
                     "type": "doc",
-                    "id": "数据库部分/第18章 MySQL分区"
+                    "id": "review/数据库部分/第18章 MySQL分区"
                   },
                   {
                     "type": "doc",
-                    "id": "数据库部分/第19章 MongoDB"
+                    "id": "review/数据库部分/第19章 MongoDB"
                   },
                   {
                     "type": "doc",
-                    "id": "数据库部分/第20章 图数据库"
+                    "id": "review/数据库部分/第20章 图数据库"
                   },
                   {
                     "type": "doc",
-                    "id": "数据库部分/第21章 时序数据库"
+                    "id": "review/数据库部分/第21章 时序数据库"
                   },
                   {
                     "type": "doc",
-                    "id": "数据库部分/第22章 数据湖"
+                    "id": "review/数据库部分/第22章 数据湖"
                   }
                 ],
                 "link": {
@@ -787,11 +1130,11 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "运维和集群部分/第23章 集群"
+                    "id": "review/运维和集群部分/第23章 集群"
                   },
                   {
                     "type": "doc",
-                    "id": "运维和集群部分/第24章 Hadoop MR"
+                    "id": "review/运维和集群部分/第24章 Hadoop MR"
                   }
                 ],
                 "link": {
@@ -800,6 +1143,60 @@
                   "slug": "/category/模块三-运维和集群",
                   "permalink": "/docs/category/模块三-运维和集群"
                 }
+              }
+            ],
+            "homeworkSidebar": [
+              {
+                "type": "doc",
+                "id": "homework/intro"
+              },
+              {
+                "type": "doc",
+                "id": "homework/作业01:事务与管理"
+              },
+              {
+                "type": "doc",
+                "id": "homework/作业02:Kafka 消息中间件"
+              },
+              {
+                "type": "doc",
+                "id": "homework/作业03:Websocket与线程安全"
+              },
+              {
+                "type": "doc",
+                "id": "homework/作业04:SSL"
+              },
+              {
+                "type": "doc",
+                "id": "homework/作业05:Redis缓存"
+              },
+              {
+                "type": "doc",
+                "id": "homework/作业06:全文搜索"
+              },
+              {
+                "type": "doc",
+                "id": "homework/作业07:微服务"
+              },
+              {
+                "type": "doc",
+                "id": "homework/作业08:课堂签到小测"
+              },
+              {
+                "type": "doc",
+                "id": "homework/作业09:数据库"
+              },
+              {
+                "type": "doc",
+                "id": "homework/作业10:数据库备份"
+              },
+              {
+                "type": "doc",
+                "id": "homework/作业11:MongoDB和Neo4j数据库"
+              },
+              {
+                "type": "doc",
+                "id": "homework/作业12:TSDB & Cluster"
               }
             ]
           }

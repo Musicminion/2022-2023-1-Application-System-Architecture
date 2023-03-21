@@ -1,0 +1,20 @@
+{
+  "unversionedId": "homework/作业五 Redis缓存",
+  "id": "homework/作业五 Redis缓存",
+  "title": "作业五 Redis缓存",
+  "description": "作业五 Redis缓存",
+  "source": "@site/docs/homework/作业五 Redis缓存.md",
+  "sourceDirName": "homework",
+  "slug": "/homework/作业五 Redis缓存",
+  "permalink": "/docs/homework/作业五 Redis缓存",
+  "draft": false,
+  "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/homework/作业五 Redis缓存.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "homeworkSidebar",
+  "previous": {
+    "title": "作业四:SSL",
+    "permalink": "/docs/homework/作业四:SSL"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "homework/作业二：Kafka 消息中间件",
+  "id": "homework/作业二：Kafka 消息中间件",
+  "title": "作业二：Kafka 消息中间件",
+  "description": "作业二 Kafka 消息中间件处理订单",
+  "source": "@site/docs/homework/3-作业二：Kafka 消息中间件.md",
+  "sourceDirName": "homework",
+  "slug": "/homework/作业二：Kafka 消息中间件",
+  "permalink": "/docs/homework/作业二：Kafka 消息中间件",
+  "draft": false,
+  "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/homework/3-作业二：Kafka 消息中间件.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "homeworkSidebar",
+  "previous": {
+    "title": "作业一:事务与管理",
+    "permalink": "/docs/homework/作业一:事务与管理"
+  },
+  "next": {
+    "title": "intro",
+    "permalink": "/docs/homework/intro"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "homework/作业一",
+  "id": "homework/作业一",
+  "title": "作业一",
+  "description": "作业一",
+  "source": "@site/docs/homework/作业一.md",
+  "sourceDirName": "homework",
+  "slug": "/homework/作业一",
+  "permalink": "/docs/homework/作业一",
+  "draft": false,
+  "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/homework/作业一.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "homeworkSidebar",
+  "previous": {
+    "title": "intro",
+    "permalink": "/docs/homework/intro"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "homework/作业六",
+  "id": "homework/作业六",
+  "title": "作业六",
+  "description": "作业六：全文搜索",
+  "source": "@site/docs/homework/作业六.md",
+  "sourceDirName": "homework",
+  "slug": "/homework/作业六",
+  "permalink": "/docs/homework/作业六",
+  "draft": false,
+  "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/homework/作业六.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "homeworkSidebar",
+  "previous": {
+    "title": "作业五:Redis缓存",
+    "permalink": "/docs/homework/作业五:Redis缓存"
+  }
+}

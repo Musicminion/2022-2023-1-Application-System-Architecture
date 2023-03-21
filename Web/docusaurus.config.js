@@ -58,6 +58,13 @@ const config = {
           remarkPlugins: [math],
           rehypePlugins: [katex],
         },
+        // homework: {
+        //   sidebarPath: require.resolve('./sidebars.js'),
+        //   editUrl:
+        //     'https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/',
+        //   remarkPlugins: [math],
+        //   rehypePlugins: [katex],
+        // },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
@@ -75,6 +82,10 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      tableOfContents: {
+        minHeadingLevel: 2,
+        maxHeadingLevel: 5,
+      },
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
@@ -86,7 +97,13 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'homework/intro',
+            position: 'left',
+            label: '平时作业',
+          },
+          {
+            type: 'doc',
+            docId: 'review/intro',
             position: 'left',
             label: '期末复习',
           },
@@ -105,7 +122,7 @@ const config = {
             items: [
               {
                 label: '期末复习',
-                to: '/docs/intro',
+                to: '/docs/review/intro',
               },
             ],
           },

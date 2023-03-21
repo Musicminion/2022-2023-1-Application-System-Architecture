@@ -1,0 +1,23 @@
+{
+  "unversionedId": "homework/intro",
+  "id": "homework/intro",
+  "title": "作业部分概述",
+  "description": "这部分是应用系统体系架构的作业",
+  "source": "@site/docs/homework/0-intro.md",
+  "sourceDirName": "homework",
+  "slug": "/homework/intro",
+  "permalink": "/docs/homework/intro",
+  "draft": false,
+  "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/homework/0-intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "homeworkSidebar",
+  "next": {
+    "title": "作业01:事务与管理",
+    "permalink": "/docs/homework/作业01:事务与管理"
+  }
+}

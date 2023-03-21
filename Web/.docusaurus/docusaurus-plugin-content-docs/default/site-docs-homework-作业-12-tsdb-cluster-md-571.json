@@ -1,0 +1,20 @@
+{
+  "unversionedId": "homework/作业12 TSDB & Cluster",
+  "id": "homework/作业12 TSDB & Cluster",
+  "title": "作业12 TSDB & Cluster",
+  "description": "作业12 TSDB & Cluster",
+  "source": "@site/docs/homework/作业12 TSDB & Cluster.md",
+  "sourceDirName": "homework",
+  "slug": "/homework/作业12 TSDB & Cluster",
+  "permalink": "/docs/homework/作业12 TSDB & Cluster",
+  "draft": false,
+  "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/homework/作业12 TSDB & Cluster.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "homeworkSidebar",
+  "previous": {
+    "title": "作业11：MongoDB和Neo4j数据库",
+    "permalink": "/docs/homework/作业11：MongoDB和Neo4j数据库"
+  }
+}
