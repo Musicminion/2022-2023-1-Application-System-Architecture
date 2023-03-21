@@ -34,8 +34,8 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/home/zhangziqian/2022-2023-1-Application-System-Architecture/Web/sidebars.js",
-          "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/",
+          "sidebarPath": "/workspaces/2022-2023-1-Application-System-Architecture/Web/sidebars.js",
+          "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/main/Web",
           "remarkPlugins": [
             null
           ],
@@ -43,12 +43,8 @@ export default {
             null
           ]
         },
-        "blog": {
-          "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
-        },
         "theme": {
-          "customCss": "/home/zhangziqian/2022-2023-1-Application-System-Architecture/Web/src/css/custom.css"
+          "customCss": "/workspaces/2022-2023-1-Application-System-Architecture/Web/src/css/custom.css"
         }
       }
     ]
