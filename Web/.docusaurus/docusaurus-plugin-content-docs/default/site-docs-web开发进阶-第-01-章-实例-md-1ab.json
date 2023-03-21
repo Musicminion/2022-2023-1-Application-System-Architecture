@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Web开发进阶/第01章 实例",
+  "id": "Web开发进阶/第01章 实例",
+  "title": "第01章 实例",
+  "description": "第1章 实例",
+  "source": "@site/docs/Web开发进阶/第01章 实例.md",
+  "sourceDirName": "Web开发进阶",
+  "slug": "/Web开发进阶/第01章 实例",
+  "permalink": "/docs/Web开发进阶/第01章 实例",
+  "draft": false,
+  "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/Web开发进阶/第01章 实例.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "模块一 Web开发进阶",
+    "permalink": "/docs/category/模块一-web开发进阶"
+  },
+  "next": {
+    "title": "第02章 事务",
+    "permalink": "/docs/Web开发进阶/第02章 事务"
+  }
+}

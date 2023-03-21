@@ -1,0 +1,23 @@
+{
+  "unversionedId": "运维和集群部分/第24章 Hadoop MR",
+  "id": "运维和集群部分/第24章 Hadoop MR",
+  "title": "第24章 Hadoop MR",
+  "description": "第24章 Hadoop MR",
+  "source": "@site/docs/运维和集群部分/第24章 Hadoop MR.md",
+  "sourceDirName": "运维和集群部分",
+  "slug": "/运维和集群部分/第24章 Hadoop MR",
+  "permalink": "/docs/运维和集群部分/第24章 Hadoop MR",
+  "draft": false,
+  "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/运维和集群部分/第24章 Hadoop MR.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 23,
+  "frontMatter": {
+    "sidebar_position": 23
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "第23章 集群",
+    "permalink": "/docs/运维和集群部分/第23章 集群"
+  }
+}

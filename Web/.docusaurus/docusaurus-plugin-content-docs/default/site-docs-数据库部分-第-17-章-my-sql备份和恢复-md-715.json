@@ -1,0 +1,27 @@
+{
+  "unversionedId": "数据库部分/第17章 MySQL备份和恢复",
+  "id": "数据库部分/第17章 MySQL备份和恢复",
+  "title": "第17章 MySQL备份和恢复",
+  "description": "第17章 MySQL备份和恢复",
+  "source": "@site/docs/数据库部分/第17章 MySQL备份和恢复.md",
+  "sourceDirName": "数据库部分",
+  "slug": "/数据库部分/第17章 MySQL备份和恢复",
+  "permalink": "/docs/数据库部分/第17章 MySQL备份和恢复",
+  "draft": false,
+  "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/数据库部分/第17章 MySQL备份和恢复.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 16,
+  "frontMatter": {
+    "sidebar_position": 16
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "第16章 MySQL优化（二）",
+    "permalink": "/docs/数据库部分/第16章 MySQL优化（二）"
+  },
+  "next": {
+    "title": "第18章 MySQL分区",
+    "permalink": "/docs/数据库部分/第18章 MySQL分区"
+  }
+}

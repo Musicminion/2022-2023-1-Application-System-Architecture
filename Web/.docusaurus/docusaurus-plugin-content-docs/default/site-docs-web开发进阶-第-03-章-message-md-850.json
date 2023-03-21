@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Web开发进阶/第03章 Message",
+  "id": "Web开发进阶/第03章 Message",
+  "title": "第03章 Message",
+  "description": "第3章 Message",
+  "source": "@site/docs/Web开发进阶/第03章 Message.md",
+  "sourceDirName": "Web开发进阶",
+  "slug": "/Web开发进阶/第03章 Message",
+  "permalink": "/docs/Web开发进阶/第03章 Message",
+  "draft": false,
+  "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/Web开发进阶/第03章 Message.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "第02章 事务",
+    "permalink": "/docs/Web开发进阶/第02章 事务"
+  },
+  "next": {
+    "title": "第04章 Kafka",
+    "permalink": "/docs/Web开发进阶/第04章 Kafka"
+  }
+}

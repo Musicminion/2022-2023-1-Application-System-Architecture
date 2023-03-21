@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Web开发进阶/第12章 微服务",
+  "id": "Web开发进阶/第12章 微服务",
+  "title": "第12章 微服务",
+  "description": "第12章 微服务",
+  "source": "@site/docs/Web开发进阶/第12章 微服务.md",
+  "sourceDirName": "Web开发进阶",
+  "slug": "/Web开发进阶/第12章 微服务",
+  "permalink": "/docs/Web开发进阶/第12章 微服务",
+  "draft": false,
+  "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/Web开发进阶/第12章 微服务.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_position": 12
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "第11章 Web服务",
+    "permalink": "/docs/Web开发进阶/第11章 Web服务"
+  },
+  "next": {
+    "title": "模块二 数据库部分",
+    "permalink": "/docs/category/模块二-数据库部分"
+  }
+}

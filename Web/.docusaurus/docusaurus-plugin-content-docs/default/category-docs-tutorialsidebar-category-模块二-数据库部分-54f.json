@@ -1,0 +1,16 @@
+{
+  "title": "模块二 数据库部分",
+  "description": "5 minutes to learn the most important concepts.",
+  "slug": "/category/模块二-数据库部分",
+  "permalink": "/docs/category/模块二-数据库部分",
+  "navigation": {
+    "previous": {
+      "title": "第12章 微服务",
+      "permalink": "/docs/Web开发进阶/第12章 微服务"
+    },
+    "next": {
+      "title": "第13-14章 范式",
+      "permalink": "/docs/数据库部分/第13-14章 范式"
+    }
+  }
+}

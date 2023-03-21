@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Web开发进阶/第07章 安全",
+  "id": "Web开发进阶/第07章 安全",
+  "title": "第07章 安全",
+  "description": "第7章 安全",
+  "source": "@site/docs/Web开发进阶/第07章 安全.md",
+  "sourceDirName": "Web开发进阶",
+  "slug": "/Web开发进阶/第07章 安全",
+  "permalink": "/docs/Web开发进阶/第07章 安全",
+  "draft": false,
+  "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/Web开发进阶/第07章 安全.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "第06章 多线程",
+    "permalink": "/docs/Web开发进阶/第06章 多线程"
+  },
+  "next": {
+    "title": "第08章 jwt与SSO",
+    "permalink": "/docs/Web开发进阶/第08章 jwt与SSO"
+  }
+}

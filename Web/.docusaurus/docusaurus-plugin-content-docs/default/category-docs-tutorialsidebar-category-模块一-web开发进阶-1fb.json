@@ -1,0 +1,16 @@
+{
+  "title": "模块一 Web开发进阶",
+  "description": "5 minutes to learn the most important concepts.",
+  "slug": "/category/模块一-web开发进阶",
+  "permalink": "/docs/category/模块一-web开发进阶",
+  "navigation": {
+    "previous": {
+      "title": "应用系统体系架构",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "第01章 实例",
+      "permalink": "/docs/Web开发进阶/第01章 实例"
+    }
+  }
+}

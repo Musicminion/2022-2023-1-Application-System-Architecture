@@ -1,0 +1,27 @@
+{
+  "unversionedId": "运维和集群部分/第23章 集群",
+  "id": "运维和集群部分/第23章 集群",
+  "title": "第23章 集群",
+  "description": "第23章 集群",
+  "source": "@site/docs/运维和集群部分/第23章 集群.md",
+  "sourceDirName": "运维和集群部分",
+  "slug": "/运维和集群部分/第23章 集群",
+  "permalink": "/docs/运维和集群部分/第23章 集群",
+  "draft": false,
+  "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/运维和集群部分/第23章 集群.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 22,
+  "frontMatter": {
+    "sidebar_position": 22
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "模块三 运维和集群",
+    "permalink": "/docs/category/模块三-运维和集群"
+  },
+  "next": {
+    "title": "第24章 Hadoop MR",
+    "permalink": "/docs/运维和集群部分/第24章 Hadoop MR"
+  }
+}

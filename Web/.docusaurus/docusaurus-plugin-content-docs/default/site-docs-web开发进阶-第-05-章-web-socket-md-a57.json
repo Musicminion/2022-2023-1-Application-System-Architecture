@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Web开发进阶/第05章 WebSocket",
+  "id": "Web开发进阶/第05章 WebSocket",
+  "title": "第05章 WebSocket",
+  "description": "第5章 WebSocket",
+  "source": "@site/docs/Web开发进阶/第05章 WebSocket.md",
+  "sourceDirName": "Web开发进阶",
+  "slug": "/Web开发进阶/第05章 WebSocket",
+  "permalink": "/docs/Web开发进阶/第05章 WebSocket",
+  "draft": false,
+  "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/Web开发进阶/第05章 WebSocket.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "第04章 Kafka",
+    "permalink": "/docs/Web开发进阶/第04章 Kafka"
+  },
+  "next": {
+    "title": "第06章 多线程",
+    "permalink": "/docs/Web开发进阶/第06章 多线程"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "模块三 运维和集群",
+  "description": "5 minutes to learn the most important concepts.",
+  "slug": "/category/模块三-运维和集群",
+  "permalink": "/docs/category/模块三-运维和集群",
+  "navigation": {
+    "previous": {
+      "title": "第22章 数据湖",
+      "permalink": "/docs/数据库部分/第22章 数据湖"
+    },
+    "next": {
+      "title": "第23章 集群",
+      "permalink": "/docs/运维和集群部分/第23章 集群"
+    }
+  }
+}

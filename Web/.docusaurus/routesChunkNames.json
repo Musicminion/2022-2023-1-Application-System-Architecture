@@ -1,0 +1,174 @@
+{
+  "/__docusaurus/debug-825": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-544-2e5"
+    }
+  },
+  "/__docusaurus/debug/config-adf": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-544-2e5"
+    }
+  },
+  "/__docusaurus/debug/content-d2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-544-2e5"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-a8e": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-544-2e5"
+    }
+  },
+  "/__docusaurus/debug/metadata-712": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-544-2e5"
+    }
+  },
+  "/__docusaurus/debug/registry-cd9": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-544-2e5"
+    }
+  },
+  "/__docusaurus/debug/routes-528": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-544-2e5"
+    }
+  },
+  "/markdown-page-99b": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-page-3-da-8d4"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/docs-2cb": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---docs-330-2a7"
+    },
+    "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/category/模块一-web开发进阶-f43": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-模块一-web开发进阶ba-2-46b"
+  },
+  "/docs/category/模块三-运维和集群-0f2": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-模块三-运维和集群f-9-a-e28"
+  },
+  "/docs/category/模块二-数据库部分-5bb": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-模块二-数据库部分-91-f-0d8"
+  },
+  "/docs/intro-aed": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/Web开发进阶/第01章 实例-5bf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web开发进阶-第-01-章-实例-1-ab-8a5"
+  },
+  "/docs/Web开发进阶/第02章 事务-afe": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web开发进阶-第-02-章-事务ecc-9c5"
+  },
+  "/docs/Web开发进阶/第03章 Message-ee3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web开发进阶-第-03-章-message-850-eec"
+  },
+  "/docs/Web开发进阶/第04章 Kafka-5e8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web开发进阶-第-04-章-kafka-045-340"
+  },
+  "/docs/Web开发进阶/第05章 WebSocket-8e6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web开发进阶-第-05-章-web-socketa-57-7f8"
+  },
+  "/docs/Web开发进阶/第06章 多线程-4e6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web开发进阶-第-06-章-多线程b-78-322"
+  },
+  "/docs/Web开发进阶/第07章 安全-a2b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web开发进阶-第-07-章-安全af-4-011"
+  },
+  "/docs/Web开发进阶/第08章 jwt与SSO-453": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web开发进阶-第-08-章-jwt与-ss-ob-6-b-688"
+  },
+  "/docs/Web开发进阶/第09章 缓存和Redis-f16": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web开发进阶-第-09-章-缓存和-redisa-1-d-63b"
+  },
+  "/docs/Web开发进阶/第10章 全文搜索-e5b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web开发进阶-第-10-章-全文搜索-2-ba-893"
+  },
+  "/docs/Web开发进阶/第11章 Web服务-80a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web开发进阶-第-11-章-web服务-7-fa-58c"
+  },
+  "/docs/Web开发进阶/第12章 微服务-cae": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web开发进阶-第-12-章-微服务-9-ff-9f5"
+  },
+  "/docs/数据库部分/第13-14章 范式-7c2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-数据库部分-第-13-14-章-范式e-13-afa"
+  },
+  "/docs/数据库部分/第15章 MySQL优化（一）-d6f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-数据库部分-第-15-章-my-sq-l优化（一）d-55-f2b"
+  },
+  "/docs/数据库部分/第16章 MySQL优化（二）-4ca": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-数据库部分-第-16-章-my-sq-l优化（二）df-8-47e"
+  },
+  "/docs/数据库部分/第17章 MySQL备份和恢复-04b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-数据库部分-第-17-章-my-sq-l备份和恢复-715-301"
+  },
+  "/docs/数据库部分/第18章 MySQL分区-2f3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-数据库部分-第-18-章-my-sq-l分区-83-c-be1"
+  },
+  "/docs/数据库部分/第19章 MongoDB-065": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-数据库部分-第-19-章-mongo-db-8-a-9-526"
+  },
+  "/docs/数据库部分/第20章 图数据库-74b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-数据库部分-第-20-章-图数据库b-88-7ad"
+  },
+  "/docs/数据库部分/第21章 时序数据库-156": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-数据库部分-第-21-章-时序数据库f-2-e-586"
+  },
+  "/docs/数据库部分/第22章 数据湖-a11": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-数据库部分-第-22-章-数据湖dd-1-d60"
+  },
+  "/docs/运维和集群部分/第23章 集群-86b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-运维和集群部分-第-23-章-集群-417-f54"
+  },
+  "/docs/运维和集群部分/第24章 Hadoop MR-dda": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-运维和集群部分-第-24-章-hadoop-mr-3-c-7-f7c"
+  },
+  "/-68a": {
+    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+    "__context": {
+      "plugin": "plugin---markdown-page-3-da-8d4"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

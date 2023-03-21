@@ -4,6 +4,9 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
+const math = require('remark-math');
+const katex = require('rehype-katex');
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '应用系统体系架构',
@@ -31,6 +34,15 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
+  stylesheets: [
+    {
+      href: 'https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css',
+      type: 'text/css',
+      integrity:
+        'sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM',
+      crossorigin: 'anonymous',
+    },
+  ],
 
   presets: [
     [
@@ -43,6 +55,8 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/',
+          remarkPlugins: [math],
+          rehypePlugins: [katex],
         },
         blog: {
           showReadingTime: true,
@@ -96,19 +110,19 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'Personal Links',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Bilibili',
+                href: 'https://space.bilibili.com/629072462',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: '水源社区',
+                href: 'https://shuiyuan.sjtu.edu.cn/u/ayaka',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'CSDN',
+                href: 'https://blog.csdn.net/weixin_51394621',
               },
             ],
           },
@@ -116,13 +130,17 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'GitHub',
+                label: 'Docusaurus GitHub',
                 href: 'https://github.com/facebook/docusaurus',
+              },
+              {
+                label: 'Repository GitHub',
+                href: 'https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/main',
               },
             ],
           },
         ],
-        copyright: `Wiki Copyright © ${new Date().getFullYear()} Musicminion, Inc. Built with Docusaurus.`,
+        copyright: `Wiki Copyright © ${new Date().getFullYear()} <a href="https://github.com/Musicminion">Musicminion</a>, Inc. Built with <a href="https://github.com/facebook/docusaurus">Docusaurus</a> .`,
       },
       prism: {
         theme: lightCodeTheme,

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "数据库部分/第19章 MongoDB",
+  "id": "数据库部分/第19章 MongoDB",
+  "title": "第19章 MongoDB",
+  "description": "第19章 MongoDB",
+  "source": "@site/docs/数据库部分/第19章 MongoDB.md",
+  "sourceDirName": "数据库部分",
+  "slug": "/数据库部分/第19章 MongoDB",
+  "permalink": "/docs/数据库部分/第19章 MongoDB",
+  "draft": false,
+  "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/webdoc/docs/数据库部分/第19章 MongoDB.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 18,
+  "frontMatter": {
+    "sidebar_position": 18
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "第18章 MySQL分区",
+    "permalink": "/docs/数据库部分/第18章 MySQL分区"
+  },
+  "next": {
+    "title": "第20章 图数据库",
+    "permalink": "/docs/数据库部分/第20章 图数据库"
+  }
+}
