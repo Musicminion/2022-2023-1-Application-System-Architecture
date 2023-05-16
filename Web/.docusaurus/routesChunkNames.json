@@ -1,58 +1,58 @@
 {
-  "/__docusaurus/debug-825": {
+  "/__docusaurus/debug-505": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-544-2e5"
+      "plugin": "plugin---docusaurus-debug-7-f-1-40d"
     }
   },
-  "/__docusaurus/debug/config-adf": {
+  "/__docusaurus/debug/config-c97": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-544-2e5"
+      "plugin": "plugin---docusaurus-debug-7-f-1-40d"
     }
   },
-  "/__docusaurus/debug/content-d2b": {
+  "/__docusaurus/debug/content-6e0": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-544-2e5"
+      "plugin": "plugin---docusaurus-debug-7-f-1-40d"
     },
     "allContent": "allContent---docusaurus-debug-content-246-9aa"
   },
-  "/__docusaurus/debug/globalData-a8e": {
+  "/__docusaurus/debug/globalData-ca6": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-544-2e5"
+      "plugin": "plugin---docusaurus-debug-7-f-1-40d"
     }
   },
-  "/__docusaurus/debug/metadata-712": {
+  "/__docusaurus/debug/metadata-2c7": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-544-2e5"
+      "plugin": "plugin---docusaurus-debug-7-f-1-40d"
     }
   },
-  "/__docusaurus/debug/registry-cd9": {
+  "/__docusaurus/debug/registry-fe3": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-544-2e5"
+      "plugin": "plugin---docusaurus-debug-7-f-1-40d"
     }
   },
-  "/__docusaurus/debug/routes-528": {
+  "/__docusaurus/debug/routes-6af": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-544-2e5"
+      "plugin": "plugin---docusaurus-debug-7-f-1-40d"
     }
   },
-  "/markdown-page-99b": {
+  "/markdown-page-74f": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---markdown-page-3-da-8d4"
+      "plugin": "plugin---markdown-pagec-65-5a3"
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-a50": {
+  "/docs-fd5": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "plugin---docs-330-2a7"
+      "plugin": "plugin---docs-067-ba9"
     },
     "versionMetadata": "versionMetadata---docs-935-398"
   },
@@ -216,10 +216,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-review-运维和集群部分-第-24-章-hadoop-mr-22-d-1e5"
   },
-  "/-68a": {
+  "/-152": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
     "__context": {
-      "plugin": "plugin---markdown-page-3-da-8d4"
+      "plugin": "plugin---markdown-pagec-65-5a3"
     },
     "config": "config---5-e-9-4f3"
   }

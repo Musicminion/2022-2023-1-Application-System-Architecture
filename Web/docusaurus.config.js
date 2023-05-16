@@ -10,7 +10,7 @@ const katex = require('rehype-katex');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '应用系统体系架构',
-  tagline: 'CHP is NB!',
+  tagline: '应用系统体系架构',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -92,7 +92,8 @@ const config = {
         title: '应用系统体系结构',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          // src: 'img/logo.svg',
+          src: 'img/logo-avatar.png',
         },
         items: [
           {

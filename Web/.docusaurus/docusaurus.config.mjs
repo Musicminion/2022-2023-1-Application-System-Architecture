@@ -5,7 +5,7 @@
  */
 export default {
   "title": "应用系统体系架构",
-  "tagline": "CHP is NB!",
+  "tagline": "应用系统体系架构",
   "favicon": "img/favicon.ico",
   "url": "https://your-docusaurus-test-site.com",
   "baseUrl": "/",
@@ -34,7 +34,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/workspaces/2022-2023-1-Application-System-Architecture/Web/sidebars.js",
+          "sidebarPath": "/home/zhangziqian/2022-2023-1-Application-System-Architecture/Web/sidebars.js",
           "editUrl": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/main/Web",
           "remarkPlugins": [
             null
@@ -44,7 +44,7 @@ export default {
           ]
         },
         "theme": {
-          "customCss": "/workspaces/2022-2023-1-Application-System-Architecture/Web/src/css/custom.css"
+          "customCss": "/home/zhangziqian/2022-2023-1-Application-System-Architecture/Web/src/css/custom.css"
         }
       }
     ]
@@ -59,7 +59,7 @@ export default {
       "title": "应用系统体系结构",
       "logo": {
         "alt": "My Site Logo",
-        "src": "img/logo.svg"
+        "src": "img/logo-avatar.png"
       },
       "items": [
         {

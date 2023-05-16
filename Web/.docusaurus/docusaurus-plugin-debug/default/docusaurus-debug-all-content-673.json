@@ -15,9 +15,9 @@
           "editUrlLocalized": "https://github.com/Musicminion/2022-2023-1-Application-System-Architecture/tree/main/Web/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/workspaces/2022-2023-1-Application-System-Architecture/Web/sidebars.js",
-          "contentPath": "/workspaces/2022-2023-1-Application-System-Architecture/Web/docs",
-          "contentPathLocalized": "/workspaces/2022-2023-1-Application-System-Architecture/Web/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/home/zhangziqian/2022-2023-1-Application-System-Architecture/Web/sidebars.js",
+          "contentPath": "/home/zhangziqian/2022-2023-1-Application-System-Architecture/Web/docs",
+          "contentPathLocalized": "/home/zhangziqian/2022-2023-1-Application-System-Architecture/Web/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "homework/intro",

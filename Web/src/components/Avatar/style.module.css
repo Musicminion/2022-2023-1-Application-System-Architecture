@@ -1,0 +1,21 @@
+
+.MainAvatar:hover{
+    transform: rotate(360deg); /* 鼠标悬停时旋转 */
+}
+
+.MainAvatar{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+
+    transition: transform 0.5s; /* 添加过渡效果 */
+    z-index: 100;
+}
+
+
+
+
+    /* object-fit: cover; */
+    /* object-position: center; */
+    /* cursor: pointer; */
+    /* transition: all 0.3s ease-in-out; */
