@@ -7,11 +7,9 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/440b49b8-2a2f-4e2a-b782-8c2ba7d90a9d/deploy-status)](https://app.netlify.com/sites/application-system-architecture/deploys)
 
 根据笔记，我已经整理发布成网站，欢迎前往：
-
 - 站点1：https://application-system-architecture.vercel.app/
 - 站点2：https://application-system-architecture.netlify.app/
 - 国内访问：https://web-arch.ayaka.space/
-
 - 关于某个兄弟说原来的网站绿油油的，然后我爆肝一节课时间改成了现在的版本【2023.5.16】
 
 **友情提示**
