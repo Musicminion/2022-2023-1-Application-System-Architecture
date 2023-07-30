@@ -57,9 +57,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-        with:
-          ref: ${{ github.ref }}
-          path: Web
 
       - name: Set up Node.js
         uses: actions/setup-node@v2
@@ -68,9 +65,11 @@ jobs:
       # 替换掉docusaurus.config.js中的baseurl
       - name: config
         run: |
+          cd Web
           sed -i "s/baseUrl: '\/'/baseUrl: '\/${{ github.event.repository.name }}\/'/g" docusaurus.config.js 
       - name: Build Page
         run: |
+          cd Web
           npm install
           npm run build
       - name: Setup Pages
@@ -79,7 +78,7 @@ jobs:
         uses: actions/upload-pages-artifact@v2
         with:
           # Upload entire repository
-          path: './build'
+          path: './Web/build'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
