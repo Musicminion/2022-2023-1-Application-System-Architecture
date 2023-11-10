@@ -10,7 +10,7 @@
 - 站点1：https://application-system-architecture.vercel.app/
 - 站点2：https://application-system-architecture.netlify.app/
 - 国内访问：https://web-arch.ayaka.space/
-- 关于某个兄弟说原来的网站绿油油的，然后我爆肝一节课时间改成了现在的版本【2023.5.16】
+- 关于某个兄弟说原来的网站绿油油的，然后我爆肝一节课时间改成了现在的版本（谁不喜欢小粉呢~）【2023.5.16】
 
 **友情提示**
 - 作业08为签到作业，希望以后不要有人因为逃课被抓了，不去会扣两分，扣在作业分数里面 ^_^
